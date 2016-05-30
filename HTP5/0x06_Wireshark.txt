@@ -1,0 +1,69 @@
+███    ███        ▄████  ▄▄████▄▄  ███    ███  
+███    ███       ▄█████ ▄██▀  ▀██▄ ███   ███   
+███    ███      ▄██▀███ ███    ███ ███  ███    
+██████████     ▄██▀ ███ ███        ███▄███                        W
+███    ███    ▄██▀  ███ ███        ████████                       I
+███    ███   ▄██▀   ███ ███    ███ ███  ████                      R
+███    ███  ▄██████████ ▀██▄  ▄██▀ ███   ████                     E
+███    ███ ▄██▀     ███  ▀▀████▀▀  ███    ████                    S
+                                                                  H
+                                                                  A
+                                         _____                    R
+███████████ ███    ███ ██████████     ,-:` \;',`'-                K
+    ███     ███    ███ ███          .'-;_,;  ':-;_,'.             
+    ███     ███    ███ ███         /;   '/    ,  _`.-\  
+    ███     ██████████ ███████    | '`. (`     /` ` \`|       
+    ███     ███    ███ ███        |:.  `\`-.   \_   / |      
+    ███     ███    ███ ███        |     (   `,  .`\ ;'|     
+    ███     ███    ███ ███         \     | .'     `-'/    
+    ███     ███    ███ ██████████   `.   ;/        .'
+                                      `'-._____.-'`   
+                                      
+                                      
+███████▄▄  ███             ▄████ ███▄    ███ ██████████ ███████████  /""-._
+███   ▀██▄ ███            ▄█████ ████▄   ███ ███            ███     .      '-,
+███    ███ ███           ▄██▀███ █████▄  ███ ███            ███     :         '',
+███   ▄██▀ ███          ▄██▀ ███ ███▀██▄ ███ ███████        ███     ;      *     '.
+███████▀▀  ███         ▄██▀  ███ ███ ▀██▄███ ███            ███     ' *         () '.
+███        ███        ▄██▀   ███ ███  ▀█████ ███            ███      \               \
+███        ███       ▄██████████ ███   ▀████ ███            ███       \      _.---.._ '.
+███        ████████ ▄██▀     ███ ███    ▀███ ██████████     ███        :  .' _.--''-''  \ ,'
+                                                         .._            '/.'             . ;
+                                                          ; `-.          ,                \'
+                                                           ;   `,         ;              ._\
+                                                            ;    \     _,-'                ''--._
+                                                             :    \_,-'                          '-._
+                                                              \ ,-'                       .          '-._
+                                                             .'         __.-'';            \...,__       '.
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄   0x06   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄.'      _,-'       \              \   ''--.,__ '\
+                                                           /   _,--' ;          \             ;           "^.}
+For the final segment of HTP5, we present: Wireshark.     ;_,-' )     \  )\      )            ;
+                                                               /       \/  \_.,-'             ;
+Debian, Python, Wireshark, Mercurial, MoinMoin, and Wget      /                              ;
+were all compromised by moinmelt.py, our RXE 0day for      ,-'  _,-'''-.    ,-.,            ;       
+MoinMoin (included in HTP5). Hell, Wget is still        ,-' _.-'        \  /    |/'-._...--'
+shelled. Would someone please update them? It's been   :--``             )/
+months by now:                                                    
+                                                                  
+http://wget.addictivecode.org/Wget?action=moinexec&c=uname%20-a   
+                                                                  
+We had our sights set on backdooring Mercurial, which             
+would land us shells on UnrealIRCd (3rd time!), Firefox,          
+QuakeNet, Pidgin, and Debian repositories. However, we            
+were more interested in having fun, so instead we dropped         
+into Wireshark's server.                                          
+                                                                  
+After 24 hours, Wireshark's server 'splash' returned a shell.     
+It featured a 3.7 kernel and an Apache httpd, which hosted        
+both the blog and the wiki. Permissions were read-world on        
+the config files, and we couldn't help ourselves. We then         
+proceeded to monitor Wireshark's www-data mail, as well as        
+download their user databases. All of the above is included       
+in the concluding segment of HTP5. Enjoy your corporate           
+security access.                                                  
+                                                                  
+                                                                  
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+~ http://mirror.hack-the-planet.tv/HTP-5/Wireshark/wireshark.zip  
+|- 1.3MB | 31MB compressed Wireshark data                         
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄

@@ -1,0 +1,718 @@
+     ▒▒░░░░░░▒▒▓▓▓▓▓▓▓▓▓▓███▓▓▒▓▓▒▒▓▓▓██▓▓▓██▓▒▒▓███████████████████████████████
+     ░░░░░░ ░░▒▓▓▒▒▒▒▓▓▓▓▓▓▓▓▓█▓▓▒▒▒▓▓▓▓███▒███▓▓██████▓████████████████████████
+     ░    ░ ░ ▒▒▒▒▒▒▓▓▓▓▓▓▓▒▓█▓▒▓▓▒▓▓▒▒▒▓█▓▓▓█▓▒▓██████▓████████████████████████
+     ░   ░░ ░ ▒▒▒▓▓▓▓▓▓█▓▓▓▓██▓█▓▓▓▒▓▓▓▓▓▓▒▓▓▒▒▒▒███████████████████████████████
+     ░   ░  ░ ▒▓▓▓▓▓▓▓▓██▓▓▓█████▒▓▓▓▓▒▒▓ ░ ░▒▒▓▒███████████████████████████████
+     ░   ░  ░ ▒▓▓▓▓▓▓▓▓▓▓▒▒▓▓▓██▓▒▒▒▓▒       ░ ░▓█████████████████████████████▓█
+     ░   ░  ░ ▒▓▓▓▓▓▓▓▓▓▓▓▒▒▓▓█▓▒░░░            ░▒█████████████████████████████▓
+     ░░░░   ░ ░▒▒▒▓▓▓▓█▓▓▓▓▓▓▓▒░                ░░▓█████▓███████████████████████
+     ░      ░░░░░▒▒▒▓▓▓▓█▓▓▓▓▒▓░               ░░░▒█████▓███▓██████████████████▓
+     ░░     ░ ░░░░▀▒▓▓▓▓▓█▓▒▒▓▓░              ░░░░▒▓█████████████████████▓▓▓▓▓▓▓
+     ░░     ░  ░ ░░▄▓▓▓▓▓▓▓▒▓▓▓▓▓░░░ ░  ░░ ▄▄▓▓▓▓▓▒▒█████████████████████▒▒▓▓▓▓▓
+     ░      ░    ░░▒▓▓▓▓▓█▒▓▒▒▒▒▒▓▒▓▒▒░  ▄▒▓▓█▓▓▒▒▓▒█████████████████████░▒▒▒▒▒▒
+     ░      ░    ░ ░█▓▓▓▓▓  ▒▓▒▒░  ░░ ░  ░░░ ░░░  ▓▓████▓████████████████ ░░░░░▒
+     ░      ░      ░█▓▓▒▒▒ ░  ▒▓▓     ░   ░ ░░    ▒▓█████▓███████████████ ░░   ▒
+     ░      ░      ░█▓▓▒▓▓█▓▓░ ▒▒    ░░   ░░    ░░▒▓██████▒▒▒▒▒▒▒▒▒▒▓████░░░░ ░▓
+     ░      ░       █ ▓▓▓▓█▓▓░░░     ░░   ░░     ░▓████▓██▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓      ▒
+     ░      ░░   ░  █░ ▓▓▓▓▓▓▓░░     ░▒░░▓▒▒░   ░░▓████▓██▒▒▒▒▒▒▒▒▒▒▒▓▓▓▒      ░
+     ░      ░       █░░░▓▒▓▓▓▓░░░      ░░░  ░  ░░░▒███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒       
+     ░      ░░     ░█   ▒▓▓▓▓▓░░░    ░▄▄▄  ▄░░░░▓▓████████▒▒▒▒▒▒▒▒▒▒▒░▒▒▒░░   ░▒
+     ░ ░    ░░     ░▓   ▒▒█▓▓█▒▀░░  ▀░░░░░▄▒░░░▒▒▓██▓████▓▒▒▒▒▒▒▒▒▒▒▒ ░░░▒▒▒░  ▓
+    ░░░░    ▒    ░  ▓   ▒▓██▓▓▓ ▀░░░  ░▒▀▀▄▓▄░▓▒▒██████▓█▓▒▒▒▒▒▒▓▓▓▒▒   ░███▓▓▓█
+    ░▒ ░    ▒ ░     ▓   ▒▒▓███▓  ▀░░ ░░░ ░░▀▄▀▄▒▒█████▓▒▓▓▓▓▓▓▓▓▓▓▓▓████████████
+    ░▒ ░    ▒       ▒  ░▒▒██▓▓░░ ░▀▄ ░░░░░▒▓▒▀▄▀▄▓███▓▓▓▓███▓█▓▓▓▓▓█████████▓███
+    ░▒░░    ▒░   ░░ ▒   ▓▒▓▒░ ░ ░░  ▀▀▒▒▒▓▓▓▓▓▒▀▄░▓██▓▓▓████████▓▒▒▒████████████
+   ░▒░░░   ░▒ ░  ░░ ▓  ▓█▓▓▓░░  ░      ▀▓▓▓▓▓▓▒▒▒▓▄████████████▓▒▒▒▒████████████
+░ ░░▒░░░  ░░▓   ░░░▒███████▓░░ ░░░     ░ ░░ ░░░░ ▓▓█████████████████████████████
+░░░░▒░░░ ░ ░▓ ▄▄████████████▓░░░            ░░ ▄████████████████████████████████
+░░░ ▒░░░░░░ ▓███████████████▓███▄ ░          ▓██████████████████████████████████
+░░░ ▒░░░░░▓█████████████████████████████████████████████████████████████████████
+░░░░▓░░░▓███████████████████████████████████████████████████████████████████████
+░░░ ▓░░▒████████████████████████████████████████████████████████████████████████
+░░░░▓░▒█████████████████████████████████████████████████████████████████████████
+░░░░▓▒██████████████████████████████████████████████████████████████████████████
+░░░▒▓███████████████████████▓█████▓▀ ▀▀░░▀██████░███████████████████████████████
+░░░▓███████████████████████░████████▒░░░████████░███████████████████████████████
+░░░████████████████████████ ████████▓░ ░████████░░██████████████████████████████
+░░▓███████████████████████ ░▓███████▒░░░████████▒ ██████████████████████████████
+░▒████████████████████████ ░▒██▀▀  ░░░ ░   ░░▓█▓▒ ▓█████████████████████████████
+░▓████████████████████████░ ▒▒ ░░░░░ ░░░ ░░░░  ░▒░▓█████████████████████████████
+▒█████████████████████████░ ▒▒░░     ░ ░ ░░░░░░░▒ ░▓████████████████████████████
+▒████████████████████████▀░ ▒▒░ ░░░░░▒▒▒      ░▒▒ ░ ▀███████████████████████████
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
+              █████    ▀ ▀██▄▄     ▄▄▄▄▄▄▄▄▄▄ ▄  █▄▄                           █
+              █████        ████        ███       ████▀▀▀▀▀▀▀▀█                 █
+              █████         ████       ████      ████        █   VS SwaggSec   ▓
+              █████ ████████ ████      ████      ████ ▀ ▀▀ ▀▀▀                 ▒
+              █████          █████     ████      ████           Mini Release 2 ░
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  
+                                                                               ░
+                     IN COMMONLY USED PASSWORDS WE TRUST                        
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 
+                                                                                
+                                                                                
+                                GATSBY                                          
+                    Anyway, anyway, guys guys guys, come on. I'm                
+                    in this computer, right. So I'm looking                     
+                    around, looking around, you know, throwing                  
+                    commands at it, I don't know where it is or                 
+                    what it does or anything. It's like, it's                   
+                    like choice, it's just beautiful, okay. Like                
+                    four hours I'm just messing around in there.                
+                    Finally I figure out, that it's an IRCD.                    
+                    Right, okay wait, okay, so it's an IRCD.                    
+                    So, this morning, I released it on Pastebin..               
+                                                                                
+                                HTP                                             
+                    You released it?                                            
+                                                                                
+        Gatsby takes a drag from his cigarette and just nods, with a            
+        big grin on his face.                                                   
+                                                                                
+                                CHIPPY                                          
+                    What are you, stoned or stupid?                             
+                                                                                
+                                                                                
+                      ▀ ▄                                                       
+                         █▄▄                                                    
+                    ▄____ ░ █▄                                                  
+          ▄   ▄███▀▀ \;',`'-,▓█░                                                
+            ▓██▀-;_,;  ':-;_,'.█▓░                                              
+          ▓▓██;   '/    ,  _`.-\█▓                                              
+        ░▓███▄'`. (`     /` ` \`|█                                              
+     ░ ▓▓▓ █|██  `\`-.   \_   / |▓                                              
+   ░█▓▓█▓░░ |  █▓ (   `,  .`\ ;'|░                                              
+  ░▓▓█░ ░░   \ ░ ▓░░ .'     `-'/▀                                               
+▄▄▓▓▄▄▄▄▄▄▄▄▄▄▄▄▓▄▄▓▓▓░      .'▀                                                
+░██▓▀ ▀█████████████████▄.-'`                                                   
+ ███░  ███▀▀███▀▀███  ███                                                       
+ █████████  ███  ███▄▄███  2012  ▒ ░                                            
+ █████████  ███  ██████▀                                                        
+ ███   ███  ███  ███                                                            
+▄███▄ ▄███▄ ███ ▄███▄                                                           
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                                          
+                                                                                
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+                                                                                
+ > Swagg Security, who you may know as yet another 'Lulzsec' wanna-be, is the   
+   latest group that has been petitioning to be owned by us. Their releases have
+   made several headlines over the past twelve months, included are: China      
+   Telecom, Warner Bros, Farmers Insurance, Library of Congress, grants.gov,    
+   arts.gov, uscis.gov, and Foxconn. We watched them and observed (through our  
+   own research) what vectors they used, which were primarily scripts that used 
+   JSP engines. For example, their grants.gov injection:                        
+                                                                                
+http://www.grants.gov/search/downloadAttachment.do?afn=../../../../../etc/shadow
+                                                                                
+   And after some social engineering, we found they had in fact read one of our 
+   guides on JSP engines.                                                       
+                                                                                
+   So we decided to locate and hook the network they were using, which turned   
+   out to be 'CrimeIRCd' (irc.crimeircd.net). Their channel at the time,        
+   #security, was also hooked. Their unabridged target list (as of today, Dec 2)
+   is as follows:                                                               
+                                                                                
+--------------------------------------------------------------------------------
+
+craigslist.org
+
+netflix.com
+https://signup.netflix.com/Login
+https://contactus.netflix.com/contactus?locale=en-SE
+https://pcr.netflix.com/offer/index.jsp?src=nflxihgPCR0410&cm_sp=IMMerch-_-PC2_GL_en-_-MM3_AL_QuickLinks_Anon_Netflix
+https://delta.netflix.com/popup/popup.jsp?p=privacy.htm&t=Privacy%20Policy
+ca.netflix.com/entryTrap.jsp?why=hyperactive
+ir.netflix.com/financials.cfm?CategoryID=282
+http://ir.netflix.com/secfiling.cfm?filingID=1193125-11-350305&CIK=1065280
+http://www.shareholder.com/visitors/activeedgardoc.cfm?f=xls&companyid=NFLX&id=8303283
+http://ir.netflix.com/common/download/sec.cfm?companyid=NFLX&fid=1193125-11-350305&cik=1065280
+http://ir.netflix.com/secfiling.cfm?sh_email=yes&filingid=1193125-11-350305&CIK=1065280
+http://apps.shareholder.com/sec/viewerContent.aspx?companyid=NFLX&docid=8303283&print=yes
+ir.netflix.com/releases.cfm?Year=2002
+www.netflix.com/Search?v1=cfm+international
+http://ir.netflix.com/common/mobile/iphone/index.cfm?CompanyID=NFLX&mobileid=
+http://ir.netflix.com/common/mobile/iphone/releasedetail.cfm?ReleaseID=669408&CompanyID=NFLX&MobileID=
+http://ir.netflix.com/documentdisplay.cfm?DocumentID=139&CommitteeID=34
+ir.netflix.com/sec.cfm?DocType=Other&Year=&FormatFilter=
+http://ir.netflix.com/sec.cfm?SortOrder=Type%20Ascending&DocType=Annual&DocTypeExclude=&Year=&FormatFilter=&CIK=
+ir.netflix.com/eventdetail.cfm?EventID=113319
+http://ir.netflix.com/stocklookup.cfm?historic_Month=1&historic_Day=3&historic_Year=2004
+http://ir.netflix.com/common/mobile/iphone/releasetable.cfm?releaseid=86119&tablenumber=1&CompanyID=NFLX
+https://signup.netflix.com/login?nextpage=http%3A%2F%2Fwww.netflix.com%2FDVDDetail.aspx%3Flocale%3Den-IE%26Title%3DMayhem
+developer.netflix.com/search?q=xml&page=3
+https://signup.netflix.com/login?nextpage=http%3A%2F%2Fwww.netflix.com%2FXML%2FU%2FMovieData%3Fpos%3D8%26ds%3D0%26linkCtr%3DTXT%26movieid%3D443317%26bobenhanced%3Dyes
+
+216.205.72.158    atlanta.netflix.com
+69.53.236.144    b2b.netflix.com
+69.53.236.18    beta.netflix.com
+69.53.236.15    ca.netflix.com
+207.210.238.73    delta.netflix.com
+69.53.236.147    ftp.netflix.com
+69.53.236.24    images.netflix.com
+69.53.237.38    jobs.netflix.com
+69.53.237.168    kb.netflix.com
+69.53.237.40    listserv.netflix.com
+127.0.0.1    localhost.netflix.com
+10.192.52.70    mm.netflix.com
+10.192.52.69    mm.netflix.com
+216.35.131.141    mx.netflix.com
+69.53.255.10    ns1.netflix.com
+69.53.254.10    ns2.netflix.com
+69.53.236.16    partners.netflix.com
+216.35.131.252    qa.netflix.com
+69.53.236.21    rd.netflix.com
+69.53.236.148    research.netflix.com
+69.53.237.157    smtp.netflix.com
+69.53.237.156    smtp.netflix.com
+69.53.236.23    stage.netflix.com
+69.53.236.45    support.netflix.com
+216.35.131.199    uk.netflix.com
+216.35.131.141    vpn.netflix.com
+69.53.236.23    web.netflix.com
+69.53.237.151    webmail.netflix.com
+69.53.236.48    www1.netflix.com
+69.53.236.19    www2.netflix.com
+
+    aa.netflix.com
+
+    agmoviecontrol.netflix.com
+
+    aladdin.netflix.com
+
+    api.netflix.com
+
+    beta.netflix.com
+
+    blog.netflix.com
+
+    cdn.netflix.com
+
+    chi1.netflix.com
+
+    corp.netflix.com
+
+    dc-nat.netflix.com
+
+    dc1.netflix.com
+
+    dc2.netflix.com
+
+    dns.netflix.com
+
+    dns2.netflix.com
+
+    dns3.netflix.com
+
+    dns5.netflix.com
+
+    dns6.netflix.com
+
+    dtemkin.netflix.com
+
+    edi01-vip1.netflix.com
+
+    edi01-vip2.netflix.com
+
+    ehub.netflix.com
+
+    equinix-sjc.netflix.com
+
+    ftp.netflix.com
+
+    grparker.netflix.com
+
+    gslbdns.netflix.com
+
+    gslbdns2.netflix.com
+
+    hb-nat.netflix.com
+
+    host49.netflix.com
+
+    host50.netflix.com
+
+    host51.netflix.com
+
+    host52.netflix.com
+
+    host53.netflix.com
+
+    host54.netflix.com
+
+    host55.netflix.com
+
+    host56.netflix.com
+
+    host57.netflix.com
+
+    host58.netflix.com
+
+    host59.netflix.com
+
+    host60.netflix.com
+
+    host61.netflix.com
+
+    host62.netflix.com
+
+    hostmaster.netflix.com
+
+    image.netflix.com
+
+    ipv6.netflix.com
+
+    ir.netflix.com
+
+    jobs.netflix.com
+
+    lg-nat.netflix.com
+
+    moviecontrol.netflix.com
+
+    movielicense.netflix.com
+
+    movies.netflix.com
+
+    mta00-ecom.netflix.com
+
+    mta00-mktg.netflix.com
+
+    mta01-ecom.netflix.com
+
+    mta01-mktg.netflix.com
+
+    mta02-ecom.netflix.com
+
+    mta02-mktg.netflix.com
+
+    mta03-ecom.netflix.com
+
+    mta03-mktg.netflix.com
+
+    mta04-ecom.netflix.com
+
+    mta04-mktg.netflix.com
+
+    mta05-ecom.netflix.com
+
+    mta05-mktg.netflix.com
+
+    mta06-ecom.netflix.com
+
+    mta06-mktg.netflix.com
+
+    mta07-ecom.netflix.com
+
+    mta07-mktg.netflix.com
+
+    mta08-ecom.netflix.com
+
+    mta08-mktg.netflix.com
+
+    mta09-ecom.netflix.com
+
+    mta09-mktg.netflix.com
+
+    mta10-ecom.netflix.com
+
+    mta10-mktg.netflix.com
+
+    mta11-ecom.netflix.com
+
+    mta11-mktg.netflix.com
+
+    mta12-mktg.netflix.com
+
+    mta13-ecom.netflix.com
+
+    mta13-mktg.netflix.com
+
+    mta14-ecom.netflix.com
+
+    mta14-mktg.netflix.com
+
+    mta15-ecom.netflix.com
+
+    mta15-mktg.netflix.com
+
+    mta16-ecom.netflix.com
+
+    mta16-mktg.netflix.com
+
+    mta17-ecom.netflix.com
+
+    mta17-mktg.netflix.com
+
+    mta18-ecom.netflix.com
+
+    mta18-mktg.netflix.com
+
+    mta19-ecom.netflix.com
+
+    mta19-mktg.netflix.com
+
+    mx-ecom.netflix.com
+
+    mx-mktg.netflix.com
+
+    mx-mktgco.netflix.com
+
+    mx-mktgnonmem.netflix.com
+
+    mx-setl.netflix.com
+
+    mx1.netflix.com
+
+    mx2.netflix.com
+
+    nat.netflix.com
+
+    nicadmin.netflix.com
+
+    ns1.netflix.com
+
+    ns2.netflix.com
+
+    oscarquotes.netflix.com
+
+    paix1.netflix.com
+
+    partners.netflix.com
+
+    prod.netflix.com
+
+    prod1.netflix.com
+
+    rd.netflix.com
+
+    research.netflix.com
+
+    rss.netflix.com
+
+    screening.netflix.com
+
+    splatter.netflix.com
+
+    stage.netflix.com
+
+    unk.netflix.com
+
+    web.netflix.com
+
+    +http://ultradns.org 
+---
+ticketmaster.com 
+
+tickets.com
+
+glennbeck.com
+
+---
+lovefilm.com
+
+212.140.241.196    access.lovefilm.com
+82.109.92.116    ad.lovefilm.com
+79.125.13.66    blog.lovefilm.com
+194.117.248.107    csdev.lovefilm.com
+194.117.248.104    cs.lovefilm.com
+194.117.248.99    images4.lovefilm.com
+194.117.248.94    staging.lovefilm.com
+194.117.248.93    apistage.lovefilm.com
+194.117.248.96    images1.lovefilm.com
+194.117.248.97    images2.lovefilm.com
+194.117.248.98    images3.lovefilm.com
+194.117.248.100    digital.lovefilm.com
+194.117.248.100    lovefilm.com
+194.117.248.100    www.lovefilm.com
+194.117.248.100    aol.lovefilm.com
+194.117.248.100    virginnet.lovefilm.com
+194.117.248.100    help.shop.lovefilm.com
+194.117.248.100    shop.lovefilm.com
+194.117.248.111    cert.lovefilm.com
+194.117.248.116    testcard.lovefilm.com
+194.117.248.117    watchnow-dev.lovefilm.com
+194.117.248.119    openapi.lovefilm.com
+194.117.248.123    static.digital-preview.lovefilm.com
+194.117.248.126    watchnow.lovefilm.com
+194.117.248.127    openapi.mashery.lovefilm.com
+194.117.248.130    dailymail.lovefilm.com
+194.117.248.131    digital-test.lovefilm.com
+194.117.248.127    api.mashery.lovefilm.com
+194.117.248.123    digital-preview.lovefilm.dev3.lovefilm.com
+194.117.248.123    digital-preview.static.lovefilm.dev3.lovefilm.com
+194.117.248.123    digital-qa.lovefilm.com
+194.117.248.119    api.lovefilm.com
+194.117.248.117    api.digital-tv.lovefilm.com
+194.117.248.117    digital-preview.lovefilm.dev4.lovefilm.com
+194.117.248.117    digital-preview.lovefilm.com
+194.117.248.117    digital-tv.lovefilm.com
+194.117.248.150    chat.lovefilm.com
+194.117.248.152    apiext1.lovefilm.com
+212.140.241.202    ftp.lovefilm.com
+212.60.14.114    germany.lovefilm.com
+83.100.128.50    info.lovefilm.com
+194.117.248.130    london.lovefilm.com
+82.151.231.188    mailhost.lovefilm.com
+82.151.234.76    office.lovefilm.com
+212.140.241.201    partners.lovefilm.com
+212.140.241.207    remote.lovefilm.com
+194.117.248.100    static.lovefilm.com
+217.72.240.200    streaming.lovefilm.com
+213.115.60.196    sweden.lovefilm.com
+194.117.248.176    star.lovefilm.com
+194.117.248.176    test.lovefilm.com
+194.117.248.176    bounce.lovefilm.com
+194.117.248.176    gbc1-be-12.lovefilm.com
+212.140.241.194    vpn.lovefilm.com
+85.133.5.116    vpn2.lovefilm.com
+212.140.241.218    webmail.lovefilm.com
+
+
+http://www.lovefilm.com/browse/film/watch-online/subscription/?facet-3=collection_id%7C8562
+www.lovefilm.com/browse/film.html?facet-1=catalog%7Cvideo&facet-2=media%7Cdigital&facet-3=collection_id%7C9404&order=collection
+http://www.lovefilm.com/signup/1?intcid=lfctasuwohppp1
+http://www.lovefilm.com/browse/film/watch-online/p3/?facet-3=collection_id|9404&sort_by=collection
+http://www.lovefilm.com/browse/film/watch-online/?facet-3=collection_id|9389&sort_by=collection&intcid=masthead_digital_lost
+https://www.lovefilm.com/visitor/sign_up_1.html?product_id=42414
+https://www.lovefilm.com/visitor/login.html?overlay=sign_in
+
+
+9gag.com
+
+http://9gag.com/pref/safe-browse?enable=0&url=%2F&nsfw=1
+https://9gag.com/login/?ref=%2Fpref%2Fsafe-browse%3Fenable%3D0%26url%3D%252F%26nsfw%3D1&nsfw=1
+https://9gag.com/login
+http://9gag.com/gag/4385167?ref=featured
+https://9gag.com/login/?ref=/submit/photo
+https://9gag.com/search?query=swaggsec&page=3
+
+All Domains piratepad.net/9gagswagger
+
+
+airtime.com
+
+
+    +http://www.zerigo.com/
+    64.27.57.0    network.ptr.zerigo.net
+    64.27.57.1    gw.ptr.zerigo.net
+    64.27.57.2    gw-r1.ptr.zerigo.net
+    64.27.57.3    gw-r2.ptr.zerigo.net
+    64.27.57.4    gw1.zerigo.net
+    64.27.57.5    gw2.zerigo.net
+    64.27.57.10    ns1.zerigo.net
+    64.27.57.11    a.ns.zerigo.net
+    64.27.57.12    a.watcher.zerigo.net
+    64.27.57.15    bk1.zerigo.net
+    64.27.57.16    bk2.zerigo.net
+    64.27.57.17    p.ns.zerigo.net
+    64.27.57.19    tick.zerigo.net
+    64.27.57.20    ns2.zerigo.net
+    64.27.57.21    21.ptr.zerigo.net
+    64.27.57.22    d.ns.zerigo.net
+    64.27.57.23    ipr1.ns.zerigo.net
+    64.27.57.24    url1.zerigo.net
+    64.27.57.26    mail1.zerigo.net
+    64.27.57.29    url2.zerigo.net
+    64.27.57.38    logomatic.zerigo.net
+    64.27.57.255    broadcast.ptr.zerigo.net
+    68.71.141.21    21.ptr.zerigo.net
+    68.71.141.16    16.ptr.zerigo.net
+    68.71.141.11    11.ptr.zerigo.net
+    68.71.141.10    10.ptr.zerigo.net
+    68.71.141.5    gw2b.zerigo.net
+    68.71.141.0    network.ptr.zerigo.net
+    68.71.141.1    gw.ptr.zerigo.net
+    68.71.141.2    gw-r1.ptr.zerigo.net
+    68.71.141.3    gw-r2.ptr.zerigo.net
+    68.71.141.4    gw1b.zerigo.net
+    68.71.141.12    a.smtpweb.zerigo.net
+    68.71.141.13    13.ptr.zerigo.net
+    68.71.141.15    logomatic.zerigo.net
+    68.71.141.17    p2.ns.zerigo.net
+    68.71.141.18    18.ptr.zerigo.net
+    68.71.141.19    tock.zerigo.net
+    68.71.141.20    20.ptr.zerigo.net
+    68.71.141.22    s1.ns.zerigo.net
+    68.71.141.23    ipr2.ns.zerigo.net
+    68.71.141.24    24.ptr.zerigo.net
+    68.71.141.26    mail2.zerigo.net
+    68.71.141.30    30.ptr.zerigo.net
+    68.71.141.31    31.ptr.zerigo.net
+    64.27.57.21    vpn.zerigo.net
+    64.27.57.6    www.zerigo.net
+
+    68.71.141.14    vconsole.zerigo.com
+    68.71.141.9    servers.zerigo.com
+    68.71.141.6    www.zerigo.com
+    68.71.141.7    watchdog.zerigo.com
+    68.71.141.8    dns.zerigo.com
+    68.71.141.16    backend.zerigo.com
+    64.27.57.8    dns.zerigo.com
+    4.27.57.6    www.zerigo.com
+    64.27.57.7    watchdog.zerigo.com
+    64.27.57.9    servers.zerigo.com
+    64.27.57.13    console.zerigo.com
+    64.27.57.14    www01.zerigo.com
+    64.27.57.18    debian.zerigo.com
+    68.71.141.11    ec.zerigo.com
+    64.27.57.25    manage.zerigo.com
+    64.27.57.27    ws.zerigo.com
+    64.27.57.28    update.zerigo.com
+    64.27.57.31    snapshots.zerigo.com
+    64.27.57.8    ns.zerigo.com
+
+
+soundcloud.com
+https://soundcloud.com/login
+http://soundcloud.com/tracks/search?page=50&q[fulltext]=lol&q[genre]=%22Pop%22
+
+178.249.136.150    admin.soundcloud.com
+178.249.136.150    beta.soundcloud.com
+96.126.126.252    blog.soundcloud.com
+178.249.136.153    connect.soundcloud.com
+174.129.212.2    dev.soundcloud.com
+75.101.145.87    dev.soundcloud.com
+75.101.163.44    dev.soundcloud.com
+75.101.163.44    developer.soundcloud.com
+174.129.212.2    developer.soundcloud.com
+75.101.145.87    developer.soundcloud.com
+75.101.145.87    developers.soundcloud.com
+75.101.163.44    developers.soundcloud.com
+174.129.212.2    developers.soundcloud.com
+178.249.136.150    feeds.soundcloud.com
+178.249.136.155    m.soundcloud.com
+178.249.136.150    media.soundcloud.com
+178.249.136.150    partners.soundcloud.com
+178.249.136.150    static.soundcloud.com
+178.249.136.150    support.soundcloud.com
+178.249.136.150    upload.soundcloud.com
+178.249.136.158    w.soundcloud.com
+178.249.136.150    www.soundcloud.com
+
+https://piratenpad.de/ioHbfAYqJW
+
+https://webmail.oag.state.tx.us/gw/webacc
+
+Create a python script to autotroll the world.
+
+http://pastebin.com/raw.php?i=5u04pXYR 
+
+http://cineinsite.atarde.uol.com.br/filme/40/scripts/script.html
+
+https://secure.ravand.com/dedicated_hw_upgrade.cfm?id=38
+
+--------------------------------------------------------------------------------
+                                                                                
+   Looks like they still haven't noticed us slowly removing everything of actual
+   value from it LOL (don't believe us? look through your revisions ;)).        
+                                                                                
+   Furthermore, we had obtained the IPs of their servers in specific, one of    
+   which they have hidden behind Cloudflare and use to host http://swaggsec.com:
+                                                                                
+   > 176.31.119.79                                                              
+   > 5.39.6.31                                                                  
+                                                                                
+   Following this, we decided to kick back and accrue PM/Chan logs. CrimeIRCd   
+   grew significantly compared to the other Anonymous networks we have hooked.  
+   As the total amount of logs neared 2 million, SwaggSec suddenly turned on    
+   their own provider as to promote their new carding network, CorruptNET.      
+                                                                                
+   The dialogue from their release:                                             
+                                                                                
+--------------------------------------------------------------------------------
+
+"""
+Ahhh How it all happened.... CrimeIRCD Hacked and OFFICIALLY OWNED! Enjoy looking
+through all the ip addresses of users who you may not like.. a few gline notices
+were left out only because there were alot more and the point was made.. but that
+is all made up in #snoop (the channel where they also spy on your private msg's)
+where it shows every user getting disconnected for being glined. List of all there
+servers and names, nicks of the users who are services admin, whole list of there
+spamfilters.. (take a look so you know what not to type on there so u dont get glined)
+and a list of there bots and there nicks.. and just plain ol' fun brought to you
+by SwaGGSeC!!!!!
+ 
+Message to hew: next time dont gline users who say they say they have a way of
+hacking your network.. u should maybe listen and ask questions.. and dont be a
+fucking dick like you always are and go glining people.. you think you are hot
+shit.. when u are just plain SHIT... now rest your head tonight to figure out what
+to do to get all the glines removed and gain access back to your network... I
+suggest a reinstall of all servers may help.. LMFAO...btw, since we have root on
+a few of your servers.. we will be continuing to have fun in other ways by using
+them for whatever we please.. 
+
+OFFICIALLY HACKED! OFFICIALLY OWNED! AND STILL OWNED FOR HOURS NOW! They have been
+down for a total of 8 hours since the making of this pastebin and still going...
+ENJOY... I know myself and my crew did :)
+"""
+
+--------------------------------------------------------------------------------
+                                                                                
+   #snoop, as it so happens, never actually existed (we verified it in our own  
+   PM/Chan logs). Second, that is not how you own a network, we would know.     
+   Attached to this release are the aforementioned 1,842,381 lines of logs we   
+   acquired, along with CrimeIRCd configuration and shadow hashes. That's how   
+   you own a network.                                                           
+                                                                                
+   As of now, SwaggSec has moved to CorruptNET, which maintains a degree of     
+   security that even Bruce Schneier himself has appraised.. oh wait..          
+                                                                                
+<Gatsby> hey <- lol HTP
+<Gatsby> what was the key for #security again?
+<Gatsby> i forgot it
+<[redacted]> bitches
+<Gatsby> ty
+                                                                                
+   Hm, guess not.
+* Now talking on #security
+* Users on #security: Gatsby bobbyflay @fame @felony @wtf911 
+* Gatsby_ (Gatsby@corrupt-993CD020.cust.teknikbyran.com) has joined #security
+<Gatsby_> wow whos the idiot 
+<Gatsby_> who let "Gatsby" in
+<Gatsby> why hello there
+<Gatsby_> so who let you in lol
+<Gatsby_> Gatsby
+<Gatsby> doesnt really matter, i couldve guessed the key myself
+<Gatsby_> It does matter it means someone is an idiot
+<Gatsby> is that surprising?
+<Gatsby_> :P
+<Gatsby_> whatever we'll check the logs later
+<Gatsby> same
+<Gatsby_> What lol
+<Gatsby_> why would you need to check logs
+* Disconnected (). <- DDOS'd off the planet, with their own bots (all stolen,
+                                                                         haha!)
+                                                                                
+   We arn't done with you, but since this isn't our fifth zine, we'll stop here.
+   See ya.                                                                      
+                                                                                
+   Files:                                                                       
+    http://doxb.in/media/htp/crimeircd/
+    http://uplink.sh/crimeircd/
+
+                                                                                
+   BTW, shoutz to Kingcope for releasing all those 0days today, nice work.      
+                                                                                
+                   .                                                            
+                                          .                                     
+                          H      .                                              
+                    ░▓▓▓▓▓▓▓▓▓▓▓        .           P                           
+                    ▒▓█▀▀▀██████░      T       ░▓▓▓▓▓▓▓▓▓▓                      
+                    ▒▓█ ████▀▄▀█░░▓▓▓▓▓▓▓▓▓▓▓  ▒▓█▀▀▀█████░                     
+                    ▒▓█ ▀▀██████░▒▓█▀▀▀██████░ ▒▓█ ▀▄█████░                     
+                    ▒▓██▀▀▀███▀█░▒▓█ ▀ ██▄▄██░ ▒▓█ ▀ ███▄█░                     
+                    ▒▓██ ▀ █████░▒▓█ █ ██████░ ▒▓██▀█▀████░                     
+                    ▒▓██ ▄▀█████░▒▓███▀██▀███░ ▒▓██ █ ████░                     
+                    ▒▓███▀▀▀████░▒▓███  ▀ ███░ ▒▓██ ▀ ████░                     
+                    ▒▓███ ▀ ████░▒▓███ █▄ ███░ ▒▓▓▒▓▓▓▓▓▓▓▓▓                    
+                    ▒▓███ █ ████░▒▓█████▀▀███░ ▒▓█▒▓█▀▀▀████░                   
+                    ▒▓████▀▀▀███░▒▓█████ ▄ ██░ ▒▓█▒▓█ ▀ ███▄░                   
+                    ▒▓████ ▀▀███░▒▓█████ █ ██░ ▒▓█▒▓█ ▄▀████░                   
+                    ▒▓████▀▀ ███░▒▓█████▄▄███░ ▒▓█▒▓██▀██▀██░                   
+                    ▒▓█████▀█▀██░▒▓██████████░ ▒▓█▒▓██  ▀ ██░                   
+                    ▒▓█████ ▀ ██░▒▓██████████░ ▒▓█▒▓██ █▄ ██░░                  
+        ▒░         ▒▒▓█████ █ ██░▒▓██████████░ ▒▓█▒▓██████▀█░░▒   ▒       ▒▒▓   
+  ▒▒   ▒▒░   ▒▒ ▒▒▒▒▒▓█████████▒▒▒▓██████████░ ▒▓█▒▓████████░░▒▒ ░▒  ░▒   ▒▒▓   
+▓▒▒▒▒  ▒▒░   ▒▒ ▒▒▒▒▒▒▒▒▒░░▒▒▒▒▒▒▒▒▒░▒▒▒▓▓░░░░░░░░▒▓████████░░▒▒▒▒▒  ░▒▒  ▒▒▒▓ ▒
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░▒▒▒▒▒▒▒▒▒░▒▒▒▓▓▓▓░░░░░░▒▓████████░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀EOF

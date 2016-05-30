@@ -1,0 +1,1045 @@
+888    888        d8888  .d8888b.  888    d8P  
+888    888       d88888 d88P  Y88b 888   d8P   
+888    888      d88P888 888    888 888  d8P    
+8888888888     d88P 888 888        888d88K     
+888    888    d88P  888 888        8888888b    
+888    888   d88P   888 888    888 888  Y88b   
+888    888  d8888888888 Y88b  d88P 888   Y88b  
+888    888 d88P     888  "Y8888P"  888    Y88b 
+                                               
+                                               
+                                         _____          
+88888888888 888    888 8888888888     ,-:` \;',`'-             
+    888     888    888 888          .'-;_,;  ':-;_,'. 
+    888     888    888 888         /;   '/    ,  _`.-\  
+    888     8888888888 8888888    | '`. (`     /` ` \`|       
+    888     888    888 888        |:.  `\`-.   \_   / |      
+    888     888    888 888        |     (   `,  .`\ ;'|     
+    888     888    888 888         \     | .'     `-'/    
+    888     888    888 8888888888   `.   ;/        .'
+                                      `'-._____.-'`   
+                                      
+                                      
+8888888b.  888             d8888 888b    888 8888888888 88888888888 
+888   Y88b 888            d88888 8888b   888 888            888     
+888    888 888           d88P888 88888b  888 888            888     
+888   d88P 888          d88P 888 888Y88b 888 8888888        888     
+8888888P"  888         d88P  888 888 Y88b888 888            888     
+888        888        d88P   888 888  Y88888 888            888     
+888        888       d8888888888 888   Y8888 888            888     
+888        88888888 d88P     888 888    Y888 8888888888     888    
+
+No official release here, just owning Grove because fuck them
+
+root@simulacra:/home# uname -a
+Linux simulacra 2.6.32-5-amd64 #1 SMP Thu Nov 3 03:41:26 UTC 2011 x86_64 GNU/Linux
+root@simulacra:/home# ls -alt
+total 32
+drwxr-xr-x 22 root        root        4096 Jun 16 22:41 ..
+drwxr-xr-x 11 cesia       cesia       4096 Jun 16 08:39 cesia
+drwxr-xr-x  6 dolphin     dolphin     4096 Apr 24 01:46 dolphin
+drwxr-xr-x  4 david       david       4096 Apr 23 18:57 david
+drwxr-xr-x  8 root        root        4096 Apr 11 01:04 .
+drwxr-xr-x  8 diabeetuss  diabeetuss  4096 Mar  2 14:34 diabeetuss
+drwxr-xr-x  4 slacky      slacky      4096 Dec 19 10:16 slacky
+drwxr-xr-x  2 schofieldau schofieldau 4096 Dec 17 09:09 schofieldau
+root@simulacra:/home# cat /etc/passwd /etc/shadow
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/bin/sh
+bin:x:2:2:bin:/bin:/bin/sh
+sys:x:3:3:sys:/dev:/bin/sh
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/bin/sh
+man:x:6:12:man:/var/cache/man:/bin/sh
+lp:x:7:7:lp:/var/spool/lpd:/bin/sh
+mail:x:8:8:mail:/var/mail:/bin/sh
+news:x:9:9:news:/var/spool/news:/bin/sh
+uucp:x:10:10:uucp:/var/spool/uucp:/bin/sh
+proxy:x:13:13:proxy:/bin:/bin/sh
+www-data:x:33:33:www-data:/var/www:/bin/sh
+backup:x:34:34:backup:/var/backups:/bin/sh
+list:x:38:38:Mailing List Manager:/var/list:/bin/sh
+irc:x:39:39:ircd:/var/run/ircd:/bin/sh
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/bin/sh
+nobody:x:65534:65534:nobody:/nonexistent:/bin/sh
+libuuid:x:100:101::/var/lib/libuuid:/bin/sh
+Debian-exim:x:101:103::/var/spool/exim4:/bin/false
+statd:x:102:65534::/var/lib/nfs:/bin/false
+cesia:x:1000:1000:Cesia Mortlock,,,:/home/cesia:/bin/bash
+vde2-net:x:103:107::/var/run/vde2:/bin/false
+sshd:x:104:65534::/var/run/sshd:/usr/sbin/nologin
+slacky:x:1001:1001:Slacky,,,:/home/slacky:/bin/bash
+schofieldau:x:1002:1002:SchofieldAU,,,:/home/schofieldau:/bin/bash
+diabeetuss:x:1003:1003:Diabeetuss Cat,,,:/home/diabeetuss:/bin/bash
+david:x:1004:1004:Basil Brush,,,:/home/david:/bin/bash
+dolphin:x:1005:1005:Dolphineas,,,:/home/dolphin:/bin/bash
+root:$6$F8nvYUYc$AoXD4ofNec78hYT1JHiQ0GSwAtMB8pBEkNA1lIG0fIODCoH5AuYaFvFIu3HRX0mZoN4N3zASkGYgFakic5tUK/:15315:0:99999:7:::
+daemon:*:15315:0:99999:7:::
+bin:*:15315:0:99999:7:::
+sys:*:15315:0:99999:7:::
+sync:*:15315:0:99999:7:::
+games:*:15315:0:99999:7:::
+man:*:15315:0:99999:7:::
+lp:*:15315:0:99999:7:::
+mail:*:15315:0:99999:7:::
+news:*:15315:0:99999:7:::
+uucp:*:15315:0:99999:7:::
+proxy:*:15315:0:99999:7:::
+www-data:*:15315:0:99999:7:::
+backup:*:15315:0:99999:7:::
+list:*:15315:0:99999:7:::
+irc:*:15315:0:99999:7:::
+gnats:*:15315:0:99999:7:::
+nobody:*:15315:0:99999:7:::
+libuuid:!:15315:0:99999:7:::
+Debian-exim:!:15315:0:99999:7:::
+statd:*:15315:0:99999:7:::
+cesia:$6$Y.5Ra6gd$3C5AnbGqaQVYHKpGKVqDykMsv5PPprVwPsyWGuPeYprh4HsItJxE0gy2OxM8gT4b34aUs6IeL08r5yz5pt4Vd1:15315:0:99999:7:::
+vde2-net:*:15315:0:99999:7:::
+sshd:*:15319:0:99999:7:::
+slacky:$6$.rPllAeG$uF.JA/5fFj9G/zESB8RDVxwob8LP6q7IK2FLIUqfYsoeOhS52ZnFq.znxS.Jk0XfzSx5bCcZm4Soe6KI3F7eh1:15319:0:99999:7:::
+schofieldau:$6$HrVLhJ1I$ZT9BzlO3xhQSiDHYohmGmwowBmC/AhZ3G4AZ8wmR914USiZOHaoRmDiFAa0V9IAa5WiIu.KQFZDsKR2K7mtrY.:15325:0:99999:7:::
+diabeetuss:$6$8b5i/W6X$nbYYE5qeF.YdoLePDb8k8Mdn9Hmkutf7Em9jqZsDnX72ANmOj8CSHPgt6DIH9ADcaUSvtLhnoYh/Q.Doa5lx1/:15370:0:99999:7:::
+david:$6$WVVAkWzy$Ozof3RR4v9zvNsimtcH7JLSDQN9dGoReng0.a8eQPpT.6o6ItbCq5Ymuy5X.LgB2W0ugSFy2sVfyivLOsV.0W.:15419:0:99999:7:::
+dolphin:$6$MA9vvjcH$gzaZRdJnqwTx8tLAXI16LU1YKs/Rq68io9.gfRO/yhPNi0HUCaiKhcBEmT3rtGoRISc/8X.RiueuQv5GIXO421:15441:0:99999:7:::
+root@simulacra:/home# ls -alt *
+cesia:
+total 304
+-rw-------  1 cesia cesia  3289 Jun 16 08:49 .bash_history
+drwxr-xr-x 11 cesia cesia  4096 Jun 16 08:39 .
+-rw-r--r--  1 cesia cesia   487 May 22 06:31 (Asian Eyes)J-Girls Reality Roadtrip~Myu,Rin,Fujiko(JGRR01)@sogood原創~獨發18p2p.aria2
+drwxr-xr-x  2 cesia cesia  4096 May 22 06:31 .aria2
+drwxr-xr-x  2 cesia cesia  4096 May 22 06:22 (Asian Eyes)J-Girls Reality Roadtrip~Myu,Rin,Fujiko(JGRR01)@sogood原創~獨發18p2p
+-rw-r--r--  1 cesia cesia 66205 May 22 06:21 (Asian Eyes)J-Girls Reality Roadtrip~Myu,Rin,Fujiko(JGRR01)@sogood原創~獨發18p2p.torrent
+drwxr-xr-x  2 cesia cesia  4096 May 10 18:48 High Tension (Haute Tension)
+-rwxr-xr-x  1 cesia cesia 23131 Apr 26 05:10 dolphin.pl
+drwxr-xr-x  8 root  root   4096 Apr 11 01:04 ..
+-rw-r--r--  1 cesia cesia 34020 Mar  7 06:53 Van Helsing.2004.HD-DVD.x264.MKV.34601.torrent
+-rw-r--r--  1 cesia cesia   268 Mar  6 22:12 Van Helsing.aria2
+drwxr-xr-x  2 cesia cesia  4096 Mar  6 12:29 Van Helsing
+drwxr-xr-x  2 root  root   4096 Mar  6 12:28 nope
+-rw-r--r--  1 cesia cesia 66553 Mar  3 10:01 in.torrent
+-rw-r--r--  1 cesia cesia 18532 Feb 29 07:56 dccstat.pl
+drwx------  2 cesia cesia  4096 Feb 27 11:25 .ssh
+-rw-r--r--  1 cesia cesia   561 Jan 18 12:45 .htoprc
+drwx------ 12 cesia cesia  4096 Dec 22 09:15 ircd
+drwx------  2 cesia cesia  4096 Dec 11  2011 .irssi
+-rw-r-----  1 cesia cesia  6913 Dec 11  2011 all
+drwxr-xr-x  2 cesia cesia  4096 Dec 11  2011 bin
+-rw-r--r--  1 cesia cesia   220 Dec  7  2011 .bash_logout
+-rw-r--r--  1 cesia cesia  3184 Dec  7  2011 .bashrc
+-rw-r--r--  1 cesia cesia   675 Dec  7  2011 .profile
+
+dolphin:
+total 4600
+drwxr-xr-x  7 dolphin dolphin    4096 Jun 17 00:50 services
+drwx------ 12 dolphin dolphin    4096 Jun 16 23:44 Unreal3.2
+-rw-------  1 dolphin dolphin    2208 Jun 11 06:26 .bash_history
+drwx------  2 dolphin dolphin    4096 May 10 02:41 .irssi
+-rw-------  1 dolphin dolphin      14 Apr 24 01:50 .nano_history
+drwxr-xr-x  6 dolphin dolphin    4096 Apr 24 01:46 .
+drwxr-xr-x  7 dolphin dolphin    4096 Apr 14 13:15 anope-1.8.7
+drwxr-xr-x  8 root    root       4096 Apr 11 01:04 ..
+-rw-r--r--  1 dolphin dolphin     220 Apr 11 01:04 .bash_logout
+-rw-r--r--  1 dolphin dolphin    3184 Apr 11 01:04 .bashrc
+-rw-r--r--  1 dolphin dolphin     675 Apr 11 01:04 .profile
+-rw-r--r--  1 dolphin dolphin 1586164 Dec 23 21:01 anope-1.8.7.tar.gz
+-rw-r--r--  1 dolphin dolphin 3064571 Nov  5  2011 Unreal3.2.9.tar.gz
+
+david:
+total 52
+-rw------- 1 david david  864 Jun  9 23:10 .bash_history
+-rw------- 1 david david   54 Apr 25 18:07 .nano_history
+drwxr-xr-x 4 david david 4096 Apr 23 18:57 .
+-rw-r--r-- 1 david david  168 Apr 23 18:57 .screenrc
+drwx------ 2 david david 4096 Apr 23 18:21 .ssh
+drwxr-xr-x 8 root  root  4096 Apr 11 01:04 ..
+drwx------ 3 david david 4096 Apr  2 14:47 .irssi
+-rw-r--r-- 1 david david  131 Mar 20 16:37 list
+-rw-r--r-- 1 david david  561 Feb  3 09:13 .htoprc
+-rw-r--r-- 1 david david  805 Feb  3 07:42 .nanorc
+-rw-r--r-- 1 david david  220 Feb  1 10:40 .bash_logout
+-rw-r--r-- 1 david david 3184 Feb  1 10:40 .bashrc
+-rw-r--r-- 1 david david  675 Feb  1 10:40 .profile
+
+diabeetuss:
+total 704
+drwxr-xr-x 8 root       root         4096 Apr 11 01:04 ..
+-rw------- 1 diabeetuss diabeetuss   4142 Mar  8 20:22 .bash_history
+drwxr-xr-x 2 diabeetuss diabeetuss   4096 Mar  2 14:34 .ssh
+drwxr-xr-x 8 diabeetuss diabeetuss   4096 Mar  2 14:34 .
+drwxr-xr-x 6 diabeetuss diabeetuss   4096 Feb  9 16:27 twitter
+drwx------ 3 diabeetuss diabeetuss   4096 Feb  3 16:01 .irssi
+drwx------ 6 diabeetuss diabeetuss   4096 Jan 31 13:32 .znc
+drwxr-xr-x 6 diabeetuss diabeetuss   4096 Jan 31 13:09 znc
+drwxr-xr-x 8 diabeetuss diabeetuss   4096 Jan 31 13:07 znc-0.204
+-rw-r--r-- 1 diabeetuss diabeetuss    220 Jan 31 11:58 .bash_logout
+-rw-r--r-- 1 diabeetuss diabeetuss   3184 Jan 31 11:58 .bashrc
+-rw-r--r-- 1 diabeetuss diabeetuss    675 Jan 31 11:58 .profile
+-rw-r--r-- 1 diabeetuss diabeetuss 654739 Jan 22 17:14 znc-0.204.tar.gz
+-rw-r--r-- 1 diabeetuss diabeetuss   6784 Dec 28  2005 hal.txt
+
+slacky:
+total 4940
+drwxr-xr-x 8 root   root      4096 Apr 11 01:04 ..
+drwxr-xr-x 2 slacky slacky    4096 Feb 26 15:39 murmur-static_x86-1.2.3
+-rw------- 1 slacky slacky     442 Dec 19 14:55 .bash_history
+drwxr-xr-x 4 slacky slacky    4096 Dec 19 10:16 .
+-rw-r--r-- 1 slacky slacky     561 Dec 19 10:16 .htoprc
+-rw-r--r-- 1 slacky slacky 5008246 Dec 11  2011 murmur-static_x86-1.2.3.tar.bz2
+drwxr-xr-x 2 slacky slacky    4096 Dec 11  2011 .ssh
+-rw-r--r-- 1 slacky slacky     220 Dec 11  2011 .bash_logout
+-rw-r--r-- 1 slacky slacky    3184 Dec 11  2011 .bashrc
+-rw-r--r-- 1 slacky slacky     675 Dec 11  2011 .profile
+
+schofieldau:
+total 24
+drwxr-xr-x 8 root        root        4096 Apr 11 01:04 ..
+drwxr-xr-x 2 schofieldau schofieldau 4096 Dec 17 09:09 .
+-rw------- 1 schofieldau schofieldau   72 Dec 17 09:09 .bash_history
+-rw-r--r-- 1 schofieldau schofieldau  220 Dec 17  2011 .bash_logout
+-rw-r--r-- 1 schofieldau schofieldau 3184 Dec 17  2011 .bashrc
+-rw-r--r-- 1 schofieldau schofieldau  675 Dec 17  2011 .profile
+root@simulacra:/home# cat */.bash_history
+screen -x
+screen
+su
+screen
+cls
+clear
+ls
+mkdir bin
+cd bin
+nano cls
+cls
+chmod +rwx cls
+cls
+expert $PATH
+cd ..
+nano .profile
+cls
+wget http://www.unrealircd.com/downloads/Unreal3.2.9.tar.gz
+ls
+tar -zxf Unreal3.2.9.tar.gz 
+ls
+rm Unreal3.2.9.tar.gz 
+mv Unreal3.2/ ircd/
+cd ircd/
+cls
+l
+scl
+scls
+cls
+l
+cls
+ls
+./Config 
+ls
+apt-get install zile
+ls
+mv unrealr.conf unrealircd.conf
+zile unrealircd.conf 
+stat unrealircd.conf 
+su
+zile unrealircd.conf 
+./unreal start
+make install
+nano unrealircd.conf
+./unreal start
+touch ircd.rules
+touch ircd.motd
+nano ircd.motd
+nano unrealircd.conf
+./unreal start
+./unreal stop
+nano ircd.motd
+./unreal start
+nano unrealircd.conf
+screen -x
+cls
+screen -x
+su
+cls
+screen -x
+irssi
+su
+w
+screen -x
+screen -x
+ping 9ch.in
+screen -x
+cls
+67uy78iopp67t[][t]6l-+-9`=-~9,.=O-~~~=~~
+``{:"?
+cls
+ls
+cls
+cd ircd
+cls
+zile unrealircd.conf
+./unreal stop
+cls
+zile unrealircd.conf
+./unreal start
+zile unrealircd.conf
+./unreal start
+cls
+screen -x
+ifstat
+su
+cd
+cat .bash_history 
+cat .bash_history | less
+cls
+screen -x
+ls
+cd ircd
+cls
+ls
+nano ircd.motd
+cls
+screen -x
+cls
+screen -x
+cls
+htop
+su
+screen -x
+cd ircd
+ls
+nano unrealircd.conf
+cls
+screen -x
+ping 9ch.in
+ssh tanami@9ch.in
+ifstat
+screen -x
+cls
+ls
+mv \[AonE\]_Hellsing_Ultimate_OVA_-_01_\[DVD_X264\]\[6A02FE29\].mp4 hua01.mp4
+mv \[AonE\]_Hellsing_Ultimate_OVA_-_02_\[DVD_x264\]\[F4DA8ABC\].mp4 hua02.mp4
+mv \[AonE\]_Hellsing_Ultimate_OVA_-_03_\[DVD_x264\]\[C9B1AE04\].mp4 hua03.mp4
+mv \[AonE\]_Hellsing_Ultimate_OVA_-_04_\[DVD_x264\]\[6DAC4596\].mp4 hua04.mp4
+screen -x
+cls
+ls
+wget http://1337x.org/download/180530/
+ls
+cat index.html 
+cls
+ls
+mv index.html in.torrent
+aria2c in.torrent 
+cls
+l
+cls
+ls
+zip -r dongs.zip Half-Life\ 2/
+su
+zip -r dongs.zip Half-Life\ 2/
+ls
+mv dongs.zip nope/
+ls bin
+ls nope
+su
+screen -x
+ls
+cd nope
+ls
+du -hs*
+du -hs *.mkv
+ls
+rm -rf Half-Life\ 2/
+df -h
+ls
+cd nope
+ls
+rm *.mp4
+ls
+df -h
+su
+cls
+ls
+cd
+cls
+ls
+aria2c Van\ Helsing.2004.HD-DVD.x264.MKV.34601.torrent &
+ls
+ps aux | grep aria
+kill 25497
+ps aux | grep aria
+cd Van\ Helsing/
+cd ..
+aria2c Van\ Helsing.2004.HD-DVD.x264.MKV.34601.torrent 
+screen -x
+screen
+ls
+screen -x
+ls
+wget http://torcache.net/torrent/F20D108A85FBE2577ADF88E388A9C3A7B4AF63D8.torrent
+ls
+aria2c F20D108A85FBE2577ADF88E388A9C3A7B4AF63D8.torrent 
+ls
+nano F@
+nano F20D108A85FBE2577ADF88E388A9C3A7B4AF63D8.torrent 
+rm F20D108A85FBE2577ADF88E388A9C3A7B4AF63D8.torrent 
+aria2c --help
+aria2c -T 'magnet:?xt=urn:btih:F20D108A85FBE2577ADF88E388A9C3A7B4AF63D8&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.ccc.de%3A80'
+aria2c 'magnet:?xt=urn:btih:F20D108A85FBE2577ADF88E388A9C3A7B4AF63D8&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.ccc.de%3A80'
+ls
+df -h
+aria2c \(Asian\ Eyes\)J-Girls\ Reality\ Roadtrip~Myu\,Rin\,Fujiko\(JGRR01\)@sogood原創~獨發18p2p.torrent 
+screen -x
+ls
+cd /home/dolphin/
+su
+ls
+ncdu
+screen -x
+ls
+su
+screen -x
+screen
+cd relaycats/
+python relaycats.py
+nano relaycats.py
+screen -x
+screen
+screen -x
+killall -9 irssi
+htop
+su
+killall -9 python
+cd relaycats/
+python relaycats.py
+nano relaycats.py
+python relaycats.py
+nano relaycats.py
+python relaycats.py
+nano relaycats.py
+python relaycats.py
+nano relaycats.py
+python relaycats.py
+ls
+irssi
+screen -x
+htop
+exec htop
+vim .irssi/config
+nano .irssi/config
+curl gorf.us
+exec htop
+uptime 
+ls
+ls -A
+rm .bash_history 
+rm -rf .ssh
+mkdir .ssh && chmod 700 .ssh
+man ssh | grep auth
+vim .ssh/authorized_keys
+nano .ssh/authorized_keys
+ls
+screen -US irssi irssi
+vim .screenrc
+nano .screenrc
+screen -US irssi irssi
+nano .irssi/config
+screen -US irssi irssi
+nano .irssi/config
+screen -US irssi irssi
+talk dolphin@127.0.0.1
+htop
+w
+who
+man w
+who -s
+clear
+w --help
+w -l
+w -o
+screen -r 32725.irssi 
+screen -US irssi irssi
+irssi
+screen -US irssi irssi
+screen -list
+ls
+htop
+clear
+screen -list
+exec htop
+tail -f .bash_history 
+exec htop
+tail -f .bash_history 
+ps -audavid
+screen -list
+ps aux
+htop
+clear
+screen -US irssi irssi
+vim .irssi/config
+nano .irssi/config
+screen -US irssi irssi
+screen -r 3152.irssi 
+screen -list
+irssi
+screen -list
+screen -U -S irssi irssi
+screen -r 5228.irssi 
+help
+man passwd
+passwd
+quit
+znc
+znc --makeconf
+more
+more tar --help
+tar --help Z more
+tar --help | more
+FUCK
+ls
+tar -xf znc*
+ls
+cd znc-0.204/
+ls
+./configure --prefix=$HOME/znc
+make
+make install
+znc
+cd ~
+ls
+znc
+cd znc
+ls
+cd ~
+ls
+cd znc-0.204/
+ls
+cd ~
+irssi
+./znc
+ls
+cd znc-0.204/
+./znc
+./znc --makeconf
+./znc 
+./znc --makeconf
+wget
+wget http://znc.in/releases/znc-0.204.tar.gz
+ls
+cd ..
+ls
+cd diabeetuss/
+ls
+tar -xzvd znc*.*gz
+apt-get install znc
+tar -xzvd znc*.*gz
+tar --help
+tar --help | grep -x
+tar --help | grep help
+tar --help | grep v
+ls
+tar znc*.*gz
+tar -xzvd znc*.*gz
+clear
+tar -xzvd znc*.*gz
+tar --test-label
+tar --help --more
+tar -x znc*.*gz
+ls -lia
+tar -xzvd znc*.*gz
+apt-get install znc
+apt-get install build-essential
+bash
+cal
+screen -S irssi
+irssi
+screen -r irc
+ok
+screen -r 10347
+ls
+cd /
+ls
+cd usr/
+ls
+cd ..
+ls
+cd home/
+ls
+cd david/
+ls
+ls -lia
+mkdir ~/.irssi/scripts && mkdir ~/.irssi/scripts/autorun && cd
+16:00 <+Macbot> you need to type mkdir .mpd
+mkdir ~/.irssi/scripts && mkdir ~/.irssi/scripts/autorun && cd
+16:00 <+Macbot> you need to type mkdir .mpd
+clear
+ls
+screen -list
+screen -r 10514
+screen -list
+screen -r 10514
+screen -d irssi
+screen -r irssi
+ls
+screen -list
+screen --help
+screen -r
+screen -r irssi
+screen --help
+man screen
+screen -list
+screen -d
+screen -d 10514
+screen -list
+screen -r 10514
+wget
+wget http://astrange.ithinksw.net/tools/hal.txt 
+ls
+cat hal.txt 
+perl hal.txt
+ls
+python
+wget http://dl.dropbox.com/u/19402169/twitter.tar.gz
+ls
+tar --help
+tar --help --more
+more 
+more tar --help
+more --help
+more tar
+tar -xf twitter.tar.gz 
+ls
+rm twitter.tar.gz 
+ls
+mkdir twitter
+ls
+mv PyYAML-3.10/ oyoyo-0.8/ python-twitter/ tablecat-bot-read-only/ twitter/
+ls
+mv setuptools-0.6c11-py2.6.egg  twitter/
+ls
+cd twitter/
+ls
+cd tablecat-bot-read-only/
+ls
+python tablecat.py 
+ls -lia
+cd ..
+ls
+cd PyYAML-3.10/
+ls
+python setup.py build
+python setup.py install
+sudo python setup.py install
+ls
+cd twitter/
+ls
+cd PyYAML-3.10/
+ls
+su -c python setup.py build diabeetuss
+su -c python setup.py build
+su -c python\ setup.py\ build diabeetuss 
+su -c python\ setup.py\ install diabeetuss 
+su -c python\ setup.py\ install 
+ls
+perl hal.txt
+install
+install meahal
+perl
+perl echo "lol";
+perl() echo 'lol';
+screen -l
+screen -list
+screen -r 10514
+screen -r 10347
+screen -r 2644
+ls
+screen -list
+screen -d 10514
+screen -d 10347
+screen -r 10514
+screnn -list
+screen -list
+screen -r 10514
+screen -r 10347
+ls
+screen -list
+screen -r 10514
+ls
+screnn -list
+screen -list
+screen -r 10514
+screen -list
+screen -r 10347
+screen -r 10514
+screen -list
+screen -r 10514
+screen -r 10347
+screen -d irssi
+screen -r 10347
+screen -r irssi
+screen -r 10514
+screen -d irssi
+screen -r 10514.tty.host
+screen -r 10347.tty.host
+screen -d irssi
+screen -d -r 10514.tty.host
+screen  -r 10514
+screen -r 10514.tty.host
+screen -x
+screen -x 10514
+y
+screen -list
+screen -r 10347
+irssi
+ls
+screen -list
+screen -r 10347
+ls
+s
+screen -list
+RR
+ls
+screnn -lisy
+screnn -list
+screen -list
+screen -d 10514
+screen -r 10514
+ps
+ps aux | grep diabeetuss
+kill
+screen -list
+kill 10514
+screen -list
+kill 10347
+screen --hjescccsdsd
+screen -list
+a
+bash
+irssi
+screen -list
+screen -x 10347
+screen -S irssi
+screen -list
+screen -r 13554
+screen -list
+screen -r 13554
+screen -list
+screen -r 13554
+ls
+pwd
+passwd
+hostname
+export --help
+man export
+hostname gibson <<< They're in the kernel!
+irssi
+cd ~/.irssi
+ls
+cd scripts/
+ls
+cd autorun/
+ls
+wget --help
+wget --help | grep -P
+wget --help | grep P
+wget http://static.quadpoint.org/irssi/fear2.theme
+irssi
+wget http://static.quadpoint.org/irssi/hilightwin.pl
+irssi
+cd ..
+ls
+cd autorun/
+ls
+mv fear2.theme ..
+ls
+cd ..
+ls
+irssi
+ls
+mkdir .ssh
+cd .ssh
+ls
+nano authorized_keys
+screen -x
+screen -x 13554.irssi
+screen -x 2644.pts-0.simulacra
+screen -x
+screen -list
+kill 13554
+screen -list
+screen -r 13554.irssi 
+ls
+cd /home/diabeetuss/.irssi/
+ls
+cd znc
+echo '*/10 * * * *   /home/you/znc/bin/znc >/dev/null 2>&1
+'
+ls
+cd ..
+ls
+cd ..
+ls
+cd david/
+ls
+cat list
+cd ..
+ls
+cd slacky/
+ls
+cd ..
+ls
+cd diabeetuss/
+*/10 * * * *   /home/you/znc/bin/znc >/dev/null 2>&1
+cd ..
+ls
+echo '*/10 * * * *   /home/you/znc/bin/znc >/dev/null 2>&1
+'
+*/10 * * * * /home/diabeetuss/znc/bin/znc >/dev/null 2>&1
+crontab -e
+ls
+w
+lastlog
+wget http://www.unrealircd.com/downloads/Unreal3.2.9.tar.gz
+tar -xzvf Unreal3.2.9.tar.gz 
+ls
+cd Unreal3.2/
+ls
+./Config
+make
+ifconfig
+ip addr
+./unreal start
+ip addr | grep inet
+ps x
+kill -9 27347
+./unreal start
+cd ~
+irssi
+os x
+ps x
+kill -9 27375
+./unreal start
+cd Unreal3.2/
+./unreal start
+irssi
+ps x
+kill -9 27390
+./unreal start
+irssi
+ps x
+kill -9 27407
+./unreal start
+irssi
+screen -U irssi
+irssi
+exit
+ls
+cd unreal
+cd Unreal3.2/
+ls
+./Config
+ifconfig
+ip addr | grep inet
+irssi
+ping6
+ping6 google.com
+ping6 ipv6.google.com
+./Config
+./Unreal stop
+./unreal stop
+make
+./unreal start
+cd ~
+wget http://downloads.sourceforge.net/project/anope/anope-stable/Anope%201.8.7/anope-1.8.7.tar.gz?r=&ts=1334404466&use_mirror=iweb
+ls
+rm anope-1.8.7.tar.gz\?r\= 
+http://downloads.sourceforge.net/project/anope/anope-stable/Anope%201.8.7/anope-1.8.7.tar.gz
+wget http://downloads.sourceforge.net/project/anope/anope-stable/Anope%201.8.7/anope-1.8.7.tar.gz
+ls
+tar -xzvf anope-1.8.7.tar.gz 
+ls
+cd  anope-1.8.7/
+./Config
+make
+make install
+./services -debug -nofork
+cd ~/services
+./services -debug -nofork
+irssi
+ls
+cd services
+ls
+./services -debug -nofork
+./services services.conf
+lastlog
+cd ~
+ls
+for x in $(/sbin/ifconfig -a | grep inet | awk '{print $2}' | sed 's/addr://g;'); do host -t PTR $x; done
+host 105.21.185.146.in-addr.arpa
+host collider.irclabs.com
+cd services
+./services
+ls 
+./services services.conf
+ps aux | grep services
+./services
+ps aux | grep services
+cd ..
+cd anope-1.8.7/
+make modules
+make install
+cd ..
+cd services
+./services help
+./services
+ps aux
+ps aux | grep services
+kill -9 22761
+./services
+killall services
+./services
+killall services
+cd ..
+cd anope-1.8.7/
+make modules
+make install
+cd ..
+cd services/
+./services
+killall services
+./services
+logout
+screen -U raAd
+screen -U -raAd
+cd services/
+nano services.conf 
+killall services
+./services
+logout
+e
+lo
+i secretly want tdolphins d
+cd services/
+nano services
+nano services.conf 
+killall services
+./services
+screen -U irssi
+screen -U -raAd
+screen -U -raAd 8931
+screen -U -raAd 27424
+screen -U -raAd 8931
+screen -U -raAd 8931
+screen -U -raAd 27424
+screen -U -raAd 8931
+screen -U -raAd 27424
+screen -U -raAd 8931
+screen -U irssi
+screen -U -raAd
+passwd
+who
+free -m
+htop
+whoami
+cat /proc/cpuinfo
+ifconfig
+sudo ifconfig
+passwd
+wget http://downloads.sourceforge.net/project/mumble/Mumble/1.2.3/murmur-static_x86-1.2.3.tar.bz2?r=http%3A%2F%2Fmumble.sourceforge.net%2F&ts=1323628807&use_mirror=cdnetworks-us-2
+mkdir .ssh
+nano -w .ssh/authorized_keys
+ls -l
+tar -jxvf 
+tar -jxvf murmur-static_x86-1.2.3.tar.bz2 
+cd murmur-static_x86-1.2.3/
+nano -w murmur.ini 
+./murmur.x86 
+uname -a
+ls -l
+exit
+nano -w .ssh/authorized_keys 
+exit
+xit
+exit
+ls -l
+top
+htop
+uname -a
+exit
+root@simulacra:/home# cat slacky/.ssh/authorized_keys #sup alex?
+cat slacky/.ssh/authorized_keys
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDAsUUBBRoA6LT+DOliC87PSQ2lTuMzK0NAdc3zaCRC6I++jRKbk8PPAZDD4adzn8Cd9xuVFXakO9XZ77tha5NaNT1vMuP6Vu0fbBwy1Rys7Vn6QIed3z+WPrEaLYIHBV1zXFY+R91apVQaigI8zvYvkNSB7H1+H9LQWd4rSWXj9I7qyx3IP0Lq2+OHqalbRaBlYIkfS8iKuC362uocyvxzjDkIfuHlD9G1gnwHlhPhOCAo1uaKWE42WHe9VGICk7AVvFBzRLYcRGFwekWvKTBE++CIQE2IMZEJei43z1ejtwVbdhzFi1Wx9K/hLI+jNk0HeOVrOivXZY0QCzspGx/L alex@gnu-dawn
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDI/CSvayL/xhmu/gnLnZcdiJdIWlCbvJTHs1w3AHNyX9Q/hHOwEBg9j5hGAzHV1v64fWMztRf8Fl2ttmbOqYztLmz4sB5tH0OlE8HCSY77TPpKostWxMH8ADs8dPXQ9soq9hxogLtckxL86bh9AaJaEhhx3dwYP4LZB45DqBxKYJIUGSnrEt7hyzOVJ3cntg/wk/wtUFjK/VwanAYey4alj8uUSbImu/XrPP7X+ogibKba3DV+eqi8eIBiU9MtHjTYJUC0El91G6q0sGKiz4/hEhjbpDARtFApnmXrf6jhOZmIPJ4ExIvjB8XGuYQYLew+LP46TckaPL4JlkITVw6p mango@gnu-day
+root@simulacra:/home# cd dolphin/Unreal3.2
+root@simulacra:/home/dolphin/Unreal3.2# cat unrealircd.conf|grep -v login|grep -v 'oper host'|grep -v 'oper only'|grep -v 'oper flags'|grep -v 'oper {}'|grep 'oper ' -A9
+oper phenom {
+	class           clients;
+	from {
+		userhost *@*;
+	};
+	password "balboa";
+	flags oOCAaNrDRhwgcLkKbBnGztZWHvqXd;
+       snomask cFfkejvGnNqsSo;
+};
+
+oper moodclown {
+	class           clients;
+	from {
+		userhost *@*;
+	};
+	password "fukmeinbutte";
+	flags oOCAaNrDRhwgcLkKbBnGztZWHvqXd;
+       snomask cFfkejvGnNqsSo;
+};
+root@simulacra:/home/dolphin/Unreal3.2# tail irclogs -n25
+[PM] DickServ -> dolphin : This nickname is registered and protected.  If it is your
+[PM] DickServ -> dolphin : nick, type /msg DickServ IDENTIFY password.  Otherwise,
+[PM] DickServ -> dolphin : please choose a different nick.
+[PM] sht -> dolphin : ban zfo
+[PM] dolphin -> sht : why
+[PM] sht -> dolphin : <~Aurora> * Now talking on #grove
+[PM] sht -> dolphin : <~Aurora> * Topic for #grove is: 03:31 <+Fluffykittten> im gud fanks Irish ...howa u ?
+[PM] sht -> dolphin : <~Aurora> * Topic for #grove set by SHITDUDEREPTILLUMILUNARI at Fri Jun 15 19:31:35 2012
+[PM] sht -> dolphin : <~Aurora> <dolphin> sup
+[PM] sht -> dolphin : <~Aurora> <nza> rude_ggos
+[PM] sht -> dolphin : <~Aurora> <nza> nmu
+[PM] sht -> dolphin : <~Aurora> <dolphin> just got a new xbox
+[PM] sht -> dolphin : <~Aurora> * jones (jones@FSC-BC213450.irl.im) has joined #grove
+[PM] sht -> dolphin : <~Aurora> <sht> htp fags ddos
+[PM] sht -> dolphin : <~Aurora> * mr_vile (carnage@FSC-4A8EB86E.in) has joined #grove
+[PM] sht -> dolphin : <~Aurora> <dolphin> who gives a fuck
+[PM] dolphin -> sht : i dont care
+[PM] dolphin -> sht : ay
+[PM] dolphin -> sht : ay dawg ay
+[PM] sht -> dolphin : ay wat
+[PM] dolphin -> sht : whats the url to htp
+[PM] sht -> dolphin : irc.hack-the-planet.tv
+[PM] sht -> dolphin : they probly ddos me if u conect lol
+[PM] dolphin -> sht : whats the key
+[PM] sht -> dolphin : niggers1
+root@simulacra:/home/dolphin/Unreal3.2# cd /
+root@simulacra:/# wall <<< '/!\ #GROVE HAS MOVED TO /dev/null /!\'
+                                                                               
+Broadcast Message from root@simulacra                                          
+        (/dev/pts/0) at 1:08 ...                                               
+                                                                               
+                                                                               
+root@simulacra:/# killall ircd
+root@simulacra:/# shred -vuzn 3 /dev/sda
+shred: /dev/sda: pass 1/4 (random)...
+shred: /dev/sda: pass 3/4 (random)...26GiB/30GiB 86%
+shred: /dev/sda: pass 4/4 (000000)...23GiB/30GiB 76%
+shred: /dev/sda: pass 4/4 (000000)...28GiB/30GiB 93%
+shred: /dev/sda: pass 4/4 (000000)...29GiB/30GiB 96%
+shred: /dev/sda: pass 4/4 (000000)...30GiB/30GiB 100%
+shred: /dev/sda: removing
+shred: /dev/sda: renamed to /dev/000
+shred: /dev/000: renamed to /dev/00
+shred: /dev/00: renamed to /dev/0
+shred: /dev/sda: removed
+root@simulacra:/# exit
+Connection to irc.grove.bz closed by remote host.
+Connection to irc.grove.bz closed.
+eof
+
+PS: http://pastebin.com/0WGkjHJg

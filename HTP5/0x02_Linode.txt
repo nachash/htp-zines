@@ -1,0 +1,133 @@
+▄▄ ▀▄▄▒▒▒▒▒▒▒▒▒▒▒▒▒░ ░▒▒▒▒▒▒▒▒▒░░ ▒▒▒▒▒▒▒▒▒▒▒▒░ ▒▒▒▒▒▒▒▒▒▒░ ░░░░░ ░░  ░     ░░  
+▒▒█▄▄ ▀▀▄▄ ░ ▒▒▒▒▒▒░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▒▒▒▒▒▒▒     ░░░░░░░░░░░ ░░░░    ░░░░ 
+▓▒▒▒▒██▄▄ ▀▄▄ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ░░░░░░░░                      ░░░░░░░░░░ ░  
+▓▓███▓▓▒███▄░▀▄▄  ▒▒▒▒▒▒▒▒▒▒▒▒ ░░░░░░                                ░░░░░▄▄▄▄▀▀
+▓▓█████████▓▒▄▄ ▀▀▀▄▄▄▒▒▒▒    ░░░░░░        ░    ░░░▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▀▀▀▀░▒▒▒▓
+▒▒▓▓██████████▓▓▓▒▄▄  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄▄▄▄▄▄▀▀▀▀▀▀▀  ▒▒▒▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▓▓▓█████
+▒▒▒▓▓█████████▓▀▀▀▀▀▀▀▀▄▄▄▄▄▄▄▄▄▄▄▄▒▒▒▄▄▄▄▄▄▄▄▄▀▀▀▀▀▀▀▀▀▀▀▀▒▒▒▒▒▒▒▒░░░▒███▓▓████
+▒▒▒▓██████████▒░░░░░░▒▒▒▒▒█████████████▓ ▒▒▒▒▒▒▒░░░ ░░░░░░░▒▒▓▓▓▓▓▓▒▒░░▒███▓████
+▒▒▒▓▓█▓▒▒▒▀▀▀▀▀▀▄▄▄▄▄▄▄▄▒████████████████▒▀▀▀▀▀▄▄▄▄▀▀▀▀▀▀▒▓███████▒░▓██▒░▒█▓▓███
+▒▒▒▓████████▓▒░░░░░░░██▒█████████████████▓░▒▒▒▒▒▒▒▒▒▒▒▒░▓████████▒  ▓███▒░░▒███▓
+▒▒░▒██▒▓██████   ░░░░░░▓██████████████████▒░▒░░░░░░░░▒░▒████████   ▒████▓░░▓▓▓▓▒
+░▒░░▓█░░▒▒▓██▓   ░░░░ ░███████████████████▒░ ▄  ▄▄  ▄░░███████▓ ░ ▓██████▓░▓▒▒▒░
+░░░░▒█░░░░▒▓▓░░     ░░ ▒██████████████████▒▀▀▀▀▀░░▀▀▀▀▄██████▒ ░ ▓███████▒ ▓░   
+░   ░█▒  ░░▒▒░░      ░░░▒█████████████▓▓█▒▀░░░░░░░░░░░▀▒████▓   ▓██████▓░░ ▓    
+░░   █▒    ▒▒         ░░░░▓█████████▒▒▒░░░░░░░░  ░░░░░░░▒███▒▒▒███████▓  ░ ▓    
+ ░░░ ▓▒  ▒ ░▒           ░░ ░░▀▀▓▓▓▓▒░░░░░░░░░░    ░░  ░░░  ▒▓▓▓▓▓███▓▒▒ ░░ ▓    
+ ░   ▓▒  ▒▒ ▒▒░            ░░░░░░░░░░░░░░░░░          ░░                ░ ▒▓    
+  ░ ░░▓  ░░ ░▒░░                   ░░  ░░░░░░        ░░░     ░░░░░  ░  ░▒ ▒     
+   ░░ ▓    ░░▒▒░░                  ░░ ░░░░░          ░░░░              ░▒ ▓     
+     ░▓      ░▒▒░░                ░░░ ░░      ░░░ ░░    ░              ▒ ▒░     
+      ▓▒    ░░▒▒░░░              ░░░░░░░ ▀▀▀▄▒▒░░░░▒▄▀▀  ░             ▒ ▒      
+      ▒▓░░░░░░▒▒▒░░░░           ░░░░░░░ ░░░▒▒▓▒▒▒▒▓▓▓▓▓▒░░            ░▒ ▓      
+      ▒▓  ░░  ░▒▒░░░░░         ░░░▒▒▒▒▒▒▒▓▓█▓▒▒▒▒▒▒▒▒▒▓█▓▓▓▒░        ░▒ █░      
+       ▓░     ░▒▓▒░░░░░       ░░░▒▒▓▓▒▒▒▒▒▒▒░░     ░ ░░░▒▒▒██▒░    ░░▒░▒▒       
+       ▒▓     ░▒▓▓▒▒░░░░      ░░▒▒▒▒▒░░░░    ░░░░░░░░░ ░░ ░▒▓█▒    ░▒▒░▓        
+       ▒▓     ░ ▒▒▒▒▒░░░      ░░▒▒▒▒▒░░░░░░░░░▒▒▒▒▒▒░░░░░░░▒▒▒▒   ░▒▒▒▒▒        
+        ▒▒    ░   ▒▒▒░░░░     ░░▒▒░░░░▄▄▄▄▀▀▀▀▀▓▓█▀▀▀▄▄▄▄▒▓░░▒░  ░░▒▒░▒         
+        ▒▓    ░   ▒▒▒▒▒▒░░    ░▒▒░░░░  ░░░░          ░ ░░░  ░▒▒ ░░▒▒░ ▒         
+         ▒▒   ░    ▒▒▒▓▒▒░░    ░▒░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░ ░░░░▒▒▒▒▒▒░░ ▒         
+          ▓▒░▒░░   ░▒▒▓▓▒▒░░    ░▒░░░░░░░░░▒░▒▒▒▒▒▒▒▒░░░░░░░▒▒▓██▓▒ ░▒          
+        ░▒▓▓▒▒▒▒▒   ░▒▒▓▓▓▒▒░░░░░▒▓▒░  ░░░░▒░▒▒▓▓▒▒▒▒▒░░░░▒▒▓████▒ ░▒▒░         
+      ░▒▒▒▓▓▒▒▒▓▒░   ░▒▓▓▓▓▓▒▒░░░▒▒▓▒▒▒░░░▒▒░▒▒▓▓▓▓▒▒▒▒░▒▒▒▓████▓░ ░▒▒░░        
+    ░▒▒▓▒▒▒▓▓▓▓▓▓▒ ░   ▒▒▓▓▓▓▓▒▒▒▓▓▒▓▒▒▒▒▒░▒▒▒▓▓████▓▓▓▓▓▒▓████▓▒░ ░▒▒▒░░░░░    
+  ░▒▒▓▒▒░░▒▒█▓▓▓▓▒ ░░   ░▒▒▓███▓▓▓▓▓█▓▒▒▒▒▒▒▒▓▓▓▓███▓▓████████▒▒   ░▒▒▒▒▒░░░░░░ 
+ ░▒▒▒▒    ▒▒▓█▒▒▓▒░ ░ ░   ░▒▒██████████▓▓▓▒▒▓████████████████▒▒ ░  ░▒▒▒▒▒▒░  ░░░
+▒▒▒▒░     ▒▒▒▒▓▒▓▓▒░   ░   ░░▒▓▓█████████▓▓▓▓███████████████▓▒░    ░▒▒▒▒▒▒░     
+▒▒░       ▒▒▒▒▒█▓▓▒▒        ░░▒▒▒██████████████████████████▓▒▒      ▒▒▒▒▒▒▒░░   
+▒        ░░░▒▒▒▓██▒▒▒ ░   ░    ░▒▒▒▓█████████████████████▓▒▒░ ░    ▒▒▒▒▒▒░░░ ░  
+░    ░   ░░░░▒▒▒▒▓█▒▒░░░        ░░░▒▒██████████████████▓▓▒▒░ ░    ░▒▒▒▒░░░░░ ░░ 
+░    ░  ░░░  ▒▒▒▒▒▒▓▓▒░░     ░     ░▒▒▓███▓▓▓█████▓▓▓▓▓▒▒░       ░░▒▒▒░░░░░ ░░░░
+░    ░░░░░░  ░▒▒▒▒▒▒▒▓▒ ░            ░▒▒▓▓▓▒▒▓▓▓▓▒▒▒▒▓▒▒░      ░░░▒▒▒▒░░░░ ░░░░░
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+                                                      "I'm positive they owned."
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+   ▄▄    ▄▄  ▄▄  ▄▄  ▄▄▄▄▄  ▄▄▄▄   ▄▄▄▄                                         
+   ██    ██  ███▄██  ██ ██  ██ ██  ██▄▄                                     HTP5
+   ██    ██  ██ ▀██  ██▄██  ██▄█▀  ██▄▄                                         
+   ██ ▄▄ ▄▄                                                                     
+▄▄▄████████▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+                                                                                
+* Before reading this section of HTP5, we recommend you pop some popcorn.       
+                                                                                
+Following HTP4, we were promptly attacked by the next set of skids looking to   
+get baked by our terabit DDoS cannon. A group impersonating ac1db1tch3z decided 
+to take an alternative route, and located us through the development of one of  
+our botnets, Zodiac. We quickly switched into a fallback network and found out  
+they used SwiftIRC. SwiftIRC's nameservers were none other than Linode.         
+                                                                                
+Oh by the way, actual AB, was your second backdoor in Unreal that eval() shell  
+stored in their PHPBB MySQL database? if so -- you've finally been expunged ;)  
+- HTP                                                                           
+                                                                                
+Linode turned out to be safe from our null RDS pass 1day (before Adobe had      
+released their critical advisory). In the meantime, their registrar (name.com)  
+was taken out. We acquired their domain login (along with StackOverflow,        
+DeviantArt, etc.), and prepared a transparent proxy to gather Linode logins.    
+                                                                                
+Speaking of registrars, Xinnet, MelbourneIT, and Moniker - you're all owned.    
+Back in November, we hinted at Huawei access in our Symantec release. Their     
+registrar? Xinnet. Total domains owned: about 5.5 million total. No kidding. :P 
+                                                                                
+However, right in time, our very own HTP zeroday research division manifested   
+subzero.py: a zeroday giving us a direct route into Linode. We proceeded to     
+breach Linode and acquire their in-memory keys. This allowed us to download     
+Linode's databases and prepare to backdoor SwiftIRC via the LiSH console+       
+init=/bin/bash.                                                                 
+                                                                                
+Meanwhile, we enjoyed our (root) access to Nmap, Nagios, SQLite, OSTicket,      
+Phusion Passenger (modrails), Mono Project, Prey Project, Pastie, Sucuri, Hak5, 
+Pwnie Express, Puppet, and oauth. It got better when we found Jen Emick and     
+xnite were customers, but that's getting into another story.                    
+                                                                                
+Unknown to us at the time, the FBI had successfully accessed HTP. They made     
+their presence obvious, as everything we would get was burned within a few days.
+However, we merely considered it to be a leak, and waited to use Linode itself  
+to identify the source.                                                         
+                                                                                
+Soon after, the FBI alerted Linode that Nmap was being backdoored, unknowingly  
+identifying themselves as the source of the leaks within HTP. We still          
+considered it a leak, and told Linode that if they did not act upon our         
+already-gained access by 5/1, we would shred all of our Linode-related data.    
+This included 159,000+ decrypted CCs, usernames, $5 hashed passwords, LiSH      
+usernames, plaintext LiSH passwords, and employee logins. In the case of        
+noncompliance, we stated that we would drop it all in our release.              
+                                                                                
+This was actually quite a good offer. We made it because we didn't care about   
+CCs to begin with (that's directed at everyone on Twitter blaming Linode for    
+identity theft) and because our primary target was SwiftIRC, not Linode. They   
+accepted to protect their customer data/CCs (there wasn't much choice).         
+                                                                                
+The FBI got pissed off by this development and forced Linode's hand. After      
+informing them we would follow through and shred all of our Linode data within a
+week, the FBI and Linode coordinated a release detailing the breach in an email 
+to their customers. We were confused. If they just did this on 5/1, nothing     
+would be affected? Apparently, the FBI did not trust us. We soon found out      
+Linode's situation was not voluntary.                                           
+                                                                                
+Linode was between a rock and a hard place. They had to comply with the FBI     
+(immediately), but doing so would mean all 159,000+ customers would be on Full  
+Disclosure by 5/1. Recognizing their situation, we instead told them that if    
+they acknowledged HTP in their analysis, we'd go ahead and shred their customer 
+data anyway. Readily enabling carders was never part of our plan. They agreed,  
+and we proceeded to delete our copies of the data for them.                     
+                                                                                
+There was one more loose end to tie. We identified which users on HTP were      
+involved with the FBI, and promptly gained access to one of their cams. Sure    
+enough, there was a handler standing behind him, monitoring his involvement     
+in HTP (hi!).                                                                   
+                                                                                
+The FBI lost their access into HTP.                                             
+                                                                                
+So what's in this release, if not Linode? EDIT: Hahaha we guess that was too    
+hot, we'll give you guys registrar data instead.                                
+                                                                                
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+~ http://mirror.hack-the-planet.tv/HTP-5/Linode/ss1.png                         
+|- 193K | Linode blog post screenshot 1                                         
+~ http://mirror.hack-the-planet.tv/HTP-5/Linode/ss2.png                         
+|- 179K | Linode blog post screenshot 2                                         
+~ http://mirror.hack-the-planet.tv/HTP-5/Linode/registrardata.txt               
+|- 70K | Data on the registars mentioned above.                                 
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄

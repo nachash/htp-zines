@@ -1,0 +1,106 @@
+ANON555 97.104.251.171 cpe-97-104-251-171.cfl.res.rr.com
+ANON_Darkness 184.154.116.156 singlehop1.securitykiss.com
+ANONamy 86.189.5.32 host86-189-5-32.range86-189.btcentralplus.com
+AfDTags 76.85.186.139 CPE-76-85-186-139.neb.res.rr.com
+Anon23845 95.140.125.37 free-125-37.mediaworksit.net
+AnonFin 194.110.178.3 mail2.paf.fi
+AnonymousMe 69.130.46.124 h69-130-46-124.qrtzaz.dsl.dynamic.tds.net
+Azrae 74.232.155.229 adsl-074-232-155-229.sip.asm.bellsouth.net
+B2F 173.84.223.70
+Billy_Mays 65.183.151.13 saito.countshockula.com 109.235.51.184 tor-exit-node1.freedomservice.onion
+C0d3 76.0.7.183 mo-76-0-7-183.dhcp.embarqhsd.net
+CaineOfBorg 173.3.247.193 ool-ad03f7c1.dyn.optonline.net
+Caleb 94.75.255.118 hosted-by.leaseweb.com
+DJ-TAM 76.226.135.59 adsl-76-226-135-59.dsl.sfldmi.sbcglobal.net
+DubstepMagic 60.228.226.189 CPE-60-228-226-189.lns8.woo.bigpond.net.au
+Edave22 68.9.122.7 ip68-9-122-7.ri.ri.cox.net
+Epsilon 173.3.247.208 ool-ad03f7d0.dyn.optonline.net
+FedX 114.39.102.162 114-39-102-162.dynamic.hinet.net
+GlitchMC 174.124.43.61 174-124-43-61.dyn.centurytel.net
+HIv 95.140.125.37 free-125-37.mediaworksit.net
+Haze 12.18.245.219
+Indianrubuk 122.174.160.44 ABTS-TN-dynamic-044.160.174.122.airtelbroadband.in
+Inkk 108.18.106.240 pool-108-18-106-240.washdc.fios.verizon.net
+Jincux 184.91.149.18 18.149.91.184.cfl.res.rr.com
+Josss 78.228.41.61 sbg57-1-78-228-41-61.fbx.proxad.net
+LOLOL 0.0.7.209
+LTD 174.127.99.174 174.127.99.174.static.midphase.com
+Lumina 186.188.228.113
+M4C 201.96.104.241 customer-201-96-104-241.uninet-ide.com.mx
+Odinaga 129.72.141.219 uwyo-129-72-141-219.uwyo.edu
+Power2All 82.169.240.68 82-169-240-68.ip.telfort.nl
+RetSnom 138.199.70.143
+Ruffah_Ras 98.233.180.236 c-98-233-180-236.hsd1.md.comcast.net
+ShadowOp 75.18.160.149 adsl-75-18-160-149.dsl.pltn13.sbcglobal.net
+Smeryl 77.196.253.34 34.253.196.77.rev.sfr.net
+Smeyl 77.196.253.34 34.253.196.77.rev.sfr.net
+Swag 66.66.103.14 cpe-66-66-103-14.rochester.res.rr.com
+Thismanisadoctor 24.20.65.109 c-24-20-65-109.hsd1.or.comcast.net
+UNBANMEIMPORTANTSTUFF 24.167.16.4 cpe-24-167-16-4.rgv.res.rr.com
+Xerath 60.231.48.85 CPE-60-231-48-85.lns3.cha.bigpond.net.au
+anon123 187.146.160.236 dsl-187-146-160-236-dyn.prod-infinitum.com.mx
+anon4347 75.149.43.213 fabgraphics.com
+anonymama 75.157.157.14 d75-157-157-14.bchsia.telus.net
+bobbbbbb 93.182.187.4 anon-187-4.vpn.ipredator.se
+boho 173.23.64.22 173-23-64-22.client.mchsi.com
+br4incr4sh 81.56.209.237 server.abcdeflorent.com
+chippy1337LOL 93.182.130.66 anon-130-66.vpn.ipredator.se
+cokee 93.182.133.20 anon-133-20.vpn.ipredator.se
+cokeee 93.182.130.66 anon-130-66.vpn.ipredator.se
+comx6 190.99.231.241 dsl-emcali-190.99.231.241.emcali.net.co
+digger 0.0.0.2
+don 196.206.85.193 adsl196-193-85-206-196.adsl196-3.iam.net.ma
+dotprod 128.32.21.89 static-128-32-21-89.Law.Berkeley.EDU
+e 209.212.149.109 za.l.to
+eddie 166.250.1.233 233.sub-166-250-1.myvzw.com
+elena197 88.104.229.97 88-104-229-97.dynamic.dsl.as9105.com
+facePalmMe 128.32.21.89 static-128-32-21-89.Law.Berkeley.EDU
+fuckfox 128.32.21.89 static-128-32-21-89.Law.Berkeley.EDU
+g31g3r 137.238.147.205 s147n205.resnet.geneseo.edu
+gaston 173.174.139.89 cpe-173-174-139-89.satx.res.rr.com
+gawkcobbler 71.54.42.86 nc-71-54-42-86.dhcp.embarqhsd.net
+gezwitscher 175.41.162.169 ec2-175-41-162-169.ap-southeast-1.compute.amazonaws.com
+ghostcom 108.0.70.45 pool-108-0-70-45.lsanca.fios.verizon.net
+hacker 68.45.41.140 c-68-45-41-140.hsd1.nj.comcast.net
+heckl 68.68.108.159
+imti 173.48.90.41 pool-173-48-90-41.bstnma.fios.verizon.net
+k1tt3n 213.251.194.76
+k3ymaster 173.245.64.95
+koolz 98.203.26.25 c-98-203-26-25.hsd1.fl.comcast.net
+lionymous 67.183.152.14 c-67-183-152-14.hsd1.wa.comcast.net
+locky 186.86.129.1 Dynamic-IP-186861291.cable.net.co
+loginix 70.170.36.125 ip70-170-36-125.lv.lv.cox.net
+madmaster 77.247.181.162 chomsky.torservers.net
+manonn 76.113.235.189 c-76-113-235-189.hsd1.mn.comcast.net
+mepup 85.24.189.121 h-189-121.a189.priv.bahnhof.se
+naSignal 193.138.216.101 tor-proxy.vm.31173.se
+nibble 128.32.21.89 static-128-32-21-89.Law.Berkeley.EDU
+nikkofritz 109.215.173.29 APoitiers-257-1-142-29.w109-215.abo.wanadoo.fr
+nononn 46.239.119.58 host095577.olf.sgsnet.se
+nr206 80.237.226.74 tor4.anonymizer.ccc.de 193.177.160.99 static.ip-193-177-160-099.signet.nl
+opmonsanto 93.182.133.20 anon-133-20.vpn.ipredator.se
+pagaro_verde12 189.227.250.160 dsl-189-227-250-160-dyn.prod-infinitum.com.mx
+ph33r 68.170.73.247 247.73.170.68.belairinternet.com
+phusion 76.21.16.54 c-76-21-16-54.hsd1.ca.comcast.net
+qwerty 173.3.247.208 ool-ad03f7d0.dyn.optonline.net
+risk 202.59.80.158
+savetheinternet 58.175.28.253 CPE-58-175-28-253.mqdl1.lon.bigpond.net.au
+sd 0.0.7.209
+sdk 201.82.181.124 c952b57c.virtua.com.br
+sike333 189.178.67.80 dsl-189-178-67-80-dyn.prod-infinitum.com.mx
+soldout 71.189.172.143 pool-71-189-172-143.lsanca.fios.verizon.net
+sprinkles 213.46.138.76 d138076.upc-d.chello.nl
+subz3r0e 41.202.225.156
+triPPy 173.245.64.183 173.245.64.160
+tweak_ 142.163.144.229 mtprnf0110w-142163144229.pppoe-dynamic.High-Speed.nl.bellaliant.net
+u_raff_u_roose 68.43.10.243 c-68-43-10-243.hsd1.mi.comcast.net
+uuuuffffffff 213.163.64.43 nl.gigabit.perfect-privacy.com
+veritas 0.0.7.209
+workbench 50.71.143.81
+wtfCALEB 128.32.21.89 static-128-32-21-89.Law.Berkeley.EDU
+wtf_chuck 71.57.241.72 c-71-57-241-72.hsd1.pa.comcast.net
+xent 77.247.181.162 chomsky.torservers.net
+zombie 93.94.245.152 93-94-245-152.dynamic.swissvpn.net
+zomfg 77.111.42.10 77-111-42-10.ipv4.tusmobil.si
+zorro17 187.134.17.57 dsl-187-134-17-57-dyn.prod-infinitum.com.mx
+zxcvsd 95.140.125.37 free-125-37.mediaworksit.net

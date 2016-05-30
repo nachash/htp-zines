@@ -1,0 +1,285 @@
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+                                                                                
+                                                                                
+                                           ▄                                    
+                                       ░████▓██▓██▓▒▒▒░                         
+                                  ░▒██████▓▓███████▒████▒░░░░                   
+                              ░▓████████████████▒██▓████▒▒░░ ░░   ░░░░          
+                           ░▒▓████████████████████████▓▓██▒█▓▒▓▒▒▓█░░ ░░        
+                         ▒████████████████████████████████▓▓▓██████▓ ▒  ░░      
+                        █▓▓███████████████████████████████████████▓▓▓  ░ ░ ░▒   
+                      ░▓▓█▓███████████████████████████████████████████░ ▒ ░  ▒░ 
+                    ▒▓▓▓▓▓▓▓█████████████████████████████████████████▓▓░░▒    ░ 
+                 ░▒▓▓▒▓▓██████████████████████████████████████████████▓▒ ░░  ░ ░
+               ░▒▒▒▓▓▓▓▓▓▓▓▓▓▓███████████████████████████████████████▓▓█▒  ░  ░░
+              ░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓████████████████████████████████████████▓▓▓▒ ▒░  
+            ░▒█▓█▓█▓▓▓▓▓▓█▓▓▓▓▓▓█████████████████████████████████████████▒█   ▒░
+           ░▓▓▓▓▓▓▓▒█▓▒▓▓▓▓▓▓▓▓▓▓████████████████████████████████████████░█▓ ░ ▒
+         ░██▓▓▓▓█▓▓▓▓█▒▓▓▓▓▓▓▓▓▓▓▓██████▓████████████████████████████████▓██▓█░░
+        ▒▓█▓▓▓▓▓█▓█▓▒░▒░█▓▓▓▓▓▓▓▓▓▓██████████████████████████████████████▓███▓▒▒
+       ▒█▓▓▓▓▒▓█░░▓▓▓░██▒▓▓▓▓▓▓▓▓▓▓▓████▓██████████████████████████████████▓██▓▓
+      ▓▓▓██▓▒▓▓▓█▒░▓▒▓▓▒▓▓▓▓▓▓▓▓▓▓▓▓████████████████████████████████████████████
+      █▓█▓▓▒▓▒▓▓▓▒░▒▓▓▓▓░░▓▒▓▓▓▓▓▓▓▓█████████████████████████████████████████▓▓▓
+     ░▓▓▓▓▒▓▒▓█▓▓▒░░▓▓▓▓▓▒▒▓▓▒▓▓▓▓▓███▓▓████████████████████████████████████████
+     ░▒░█░▒▒░▒▓▓▓▒▒░░░▓█▓▓▓▒▓▓▒▒▒▓▓▓██▓▓████████████████████████████████████████
+     ░░ ░ ░ ░▒▓▒▒▒▒░▒░▓▓▓▓▓▓▓▒▓▓▒▒▓█████████████████████████████████████████████
+    ▒▓░ ░░░░▒▓▓░▒░▒▓░░░▒▓▓▓▓▓▓▓▓▓▓██████████████████████████████████████████████
+    ██▒▒░░▒░▒▓▓░▒▒▒▒▒░░▒▒▓▓▓▓▓▓▒▓█▓█████████████████████████████████████████████
+    ██▓▒▒▒▒░▒▒▓░██▒▓▓▒▒▒░▓▓▓▒▒▓▓████████████████████████████████████████████████
+    ████▓▓▓▓░▓▓░▓▓█▓▓▒▒▒░░▒█▒▒▓█████████████████████████████████████████████████
+    █▓█▓▒▓██░█▓░▒▓█▓▓▓▒▒▒▒▒██▓██████████████████████████████████████████████████
+    ▓█▒░░▓▒▒▓▓▒░░░▒▒▒▓▓▓█▓██████████████████████████████████████████████████████
+    ▒█▒░ ▓ ░▒▒░  ░  ░░░░▒░░▒▓█▓█████████████████████████████████████████████████
+    ░█▒░  ░               ░░░░▒█▓███████████████████████████▓▒░▒▒▒▓█████████████
+     ░░                   ░░░░░░▒█████████████████████████▓▒▓▓▓▓▓▓▓▒▓███████████
+       ░                 ░░░░░░░░░▓███████████████████████▒▓██▓▒░░▒▒▒▒██████████
+       ░                ░░░░░░░░░░░▓▓████████████████████████▓▒░░░░▒░░▓█████████
+        ░       ░░░░▒▓▓▒░░░░░░░░░░░░▒░█████████████████████▓▓▓░  ░░░▒░▒█████████
+         ░░░░ ░▒▓▒     ░▒▒▓▓▒░░░░░░░░▓▒███████████████████████▓██▒▒░░▒░▓████████
+          ░░ ░██▓▓▓▒░░ ░░░░░░░░░░░░░░░▒▓▓██████████████████████▓▓▒▒░░▒░██████▓▓▓
+            ░ ░▒▒▓▓▓░▒░░░▒▒░░░░░░ ░ ░░░░▒█████████████████████▓▓▓▒░░░▒▒██▓██▓▓▓▓
+             ░ ░▒▒▒░    ░░▒▒░░      ░░░░░▓███████████████████▓██▓█▒░▒░███▓█▓▓▓▓▓
+              ░░░░░     ░▒▒░░       ░░░░░░▒████████████████████▓▓▒▒▒░▓▓████▓▓▓██
+              ░░░      ░▒▒░░        ░░░░░░▒▒▓█████████████████▓▓▓▓▒░▓███████▓▓▓█
+              ░░                    ░░░░░▒▒▒▒▒██████████████▓▓▓▓▒▒▒▓██████▓▓▓▓▓▓
+              ░░                   ░░░░░░▒▒▒▒▒▓█████████████▓▓▓▓▒▒▓██▓██████▓██▓
+             ░░                   ░░░░░░▒▒▒▒▒▒▒██████▓██▓██▓▓▓▓▓▓▓▓▓▓▓▓███▓█▓▓▓▓
+            ░░░                  ░░░░░░▒▒▒▒▒▒▒▒▒█████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓███▓▓█▓▓▓▓
+            ░░                  ░░░░░░░▒▒░▒▒▒▒▒▒▓████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█▓███▓▓▓
+            ░ ░░░░░             ░░░░░░▒░▒▒▒▒░▒▒▒▒▒▓███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█▓▓▓▓▓▓▓▓
+           ░░ ░▒░░░░░          ░░░░░░░░░░░░░░▒▒▒▒▒▒▒▓█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██▓▓▓▓█▓
+           ░░░░░ ░░▒▒░        ░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▓▓▓█▓▓▓▓▓▓▓▓▓▓▓▓▓███▓▓▓█▓▓
+             ░▓▒▒▒▒▒▓░        ░░░░░░░░░░░░░░▒░▒░▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██▓▓▓▒░░
+                ▒░░░         ░░░░░░░░░░░░░░░░░░▒░░▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒░░
+                 ░           ░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓█▓▓▓█▓▓▓▒▒░░ 
+                ░             ░░░░░░░░░░░░░░░░░▒░░░▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓█▓▓▓▓▓▓▓▓░░  
+                ░░░░░░░░░░░░  ░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓█▓▓▓▓█▓▓▓▒   
+                 ░▒▒▒▒▒▒▒▓▓▒░  ░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░   
+                  ░▒▒      ░░░  ░░░░░░░░░░░░░░░▒░▒▒▒▒▒▒▒▓▓▓▓▓▓▒▒▒▓▓▓▓▓▓▓▓▓▓▒░░  
+                   ░   ░░░░░    ░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓░░  
+                   ░▒▒▓▓▒░░     ░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▒▒▒░░░▒▒▓▓▓▓▓▓█▓▓▓▓▒   
+                   ░░░▒▒░░░     ░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▓▒▒░░░░░░▒▒▓▓▓▓▓▓▓▓█▒▒░   
+                    ░           ░░░▒▒▒░▒▒▒▒▒▒▒▒▒▒▒▒▓▓▒▒░░░░░░░░░▒▒▓▓▓▓▓▓▓▓▓▒░   
+                     ░         ░░▒▒▒▒▒▒▒▒▒▒░▒▒▒▒▒▒▓▓▓▒░░░░░░░░░░▒▒▓▓▓▓▓▓▓▓▓▓░   
+                     ░        ░░▒▒▒▒▒▒▒▒▒▒░░░░▒▓▓▓▓▒▒░░░░░░░░░░▒▒▒▓▓▓▓▓▓▓▓▓▓▓░  
+                     ░      ░░░▒▒▒▒▒▒▒▒▒░   ░▒▓▓▓▓▒▒░░░░░░░░░░░░▒▒▒▒▓▓▓▓▓▓▓▓▓▓▒▒
+                      ░░   ░▒▒▒▒▒▒▒▒░░       ░▒▓▒▒░░░░░░░░░░░░░░▒▒▒▒▒▒▓▓▓▓▓▓█▓▒▓
+                        ░░░▒▒▒▒▒░░░          ░▒▒░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▓▓▓▓▓▒███
+                                             ░ ░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▓▓▒█▓███
+                                              ░  ░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒███████
+                                               ░   ░░░░░░░░░░░░░░░░▒▒▒▒░▒▓▒▒▒▓▓▒
+                                                ░     ░░░░░░░░░░░░░░▒░▒█▓▒▓▓▒▒▒▒
+                                                ░       ░░░░░░░░░░▒░░▓▒▓▓▓▓▓▒▒▒▒
+                                                ░           ░░░░░░░▒▒▓█▓██▓▓▓▓▒▓
+                                                 ░              ░▒▒▓▓▓▓▓█▓▓▓▓▓▓▓
+                                                ▒              ░▒▓▓▓▓▓█▓▓▓▓▓▓▓▒▒
+                                             ▒▒██           ░░▒▒██▓▒▒▒▒▒▒▒▒▓▓▒▒▒
+                                          ░▒█▓██▒          ░░▒▓▓▓▓▒▒▓▓▒▓▒▒▒░░░░░
+                                         ▓███▓██         ░░░▓▒▒▒▒▓▒░▒▓▓▓▓▓▓▓████
+                                      ░░█████▓▒    ▒▓▓▓░░░░▒▒▓██▒░░░░▓▒▒▒░░░░▓▓▓
+                                     ░▒▓▒██▒▓░ ░░░░▒░░░░░▒▓▓▓█▒▒░░░▒▓▒▒▒▒░░░░▒▒▒
+                                    ░█████▒█░░░░░░░░░▒ ░▓██▓▒▒░░░▒▓█▓▓▒▒░░░░░░░░
+                                  ░ ███▒███▓░░░░░░░░▒░░▓█▓▓░░░░░▒▓▓▓▓▒░░░░░░░▒▓▓
+                                   ▓█▒█████░░░░░░░░▓░ ███▒░░░░░░░▓▓▒▒░░░░▒▒░▒▒░░
+                                  ░▒█████▒░░░░░░░▒▒▓▒█▓▒▒░░ ░▒▒▒▒▒▒▒▒▒░░░▒▒▒▓▓▒▒
+                                 ▒▓██████░░░░░░░▓▒░▓█░░▒▓▒░░░░▒▒▓▓▒░▒░░░░▒▓▒▒▓█▓
+                                 ███████░░░░░░░░▒▓░▒░▒▓▒░▒░░░▒▒▒▒▓▒▒░ ░░░░░▒▓▓░░
+                                ███████░░░░░ ░░░▒▒█░░░░░▒░░▒▒▒▒░▒▓▒░░░░░░░░ ▓░▒▒
+                               ▒▒█████░░░░░ ░░░░▒█▓▒ ░▒▒▒▒░▒▒▓░░░▓▓▒░░░░░▒░▒░░░░
+                              ▒▒█▒█▒▓░░░░░░░░░░▒██▒██░░░██▒░▒░▒▒▒▒▒░░░░▒▒▓▒▒█▒██
+                             ░█▒████░░░░░░░░░░░▓█▒████░░▒▒█▒░░▒▒▒▒▒▒▒▒░░▒░░░▒█▒░
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+"What's the score?"                                                             
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+                                                                                
+ ██ ██ ██  ██  █████                                                        HTP5
+ ██ ██ ██  ▄▄  ▄▄                                                               
+ ██ ▀▀ ██  ██  ██      FEATURING EDUCAUSE                                       
+▄██▄▄▄▄██▄▄██▄▄██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+                                                                                
+Back in January we decided to upstage Anonymous (again) and have a little fun   
+with MIT. After their circa 2000 deface on mit.edu, we decided to up the ante.  
+In doing so, we knew we had to make it very clear that it was an anti-Anonymous 
+deface (A mirror of it can be found here: straylig.ht/files/mit/mit.html). Thus 
+why it made reference to Sabu, grand wizard of LulzSec, and "DOWN WITH          
+ANONYMOUS." Despite all this, some of the cluebags in the media apparently      
+thought that by "DOWN WITH ANONYMOUS," we meant "we b down wit da lol anonimuss 
+leejun y0!" Additionally, almost everybody missed the fact that it was a troll  
+deface, which just proves that it will be a few decades before we reach October 
+1st, 1993.                                                                      
+                                                                                
+MIT's reaction was particularly lulzy. They did a better job of reporting the   
+facts than all the media outlets, but they couldn't decide whether the e-mail   
+got intercepted or not. First, there was this from                              
+http://tech.mit.edu/V132/N62/hack.html:                                         
+                                                                                
+"Unlike previous attacks, which temporarily disabled some services, this attack 
+had the potential to be much more severe. A more calculated hacker could have   
+intercepted email messages intended for anyone at the MIT.edu domain, including 
+all alumni who use alum.mit.edu email addresses."                               
+                                                                                
+After having a day to do a better post-mortem, MIT started freaking out. They   
+published this: http://tech.mit.edu/V132/N63/hack.html. From that link:         
+                                                                                
+"Unlike previous attacks, which temporarily disabled some services, this attack 
+had the potential to be much more severe. Email was specifically affected. Mail 
+is normally received by one of nine different MIT servers; however today, mail  
+that was sent between 11:58 a.m. and 1:05 p.m. was directed to a machine at     
+KAIST, Korea Advanced Institute of Science and Technology, meaning the          
+attackers had complete control of emails successfully sent during that time."   
+                                                                                
+We don't know the percentage either, but we know 5.1 GB of uncompressed e-mail  
+when we see it :P. So who owned the domain? Well :                              
+                                                                                
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+                                                                                
+Domain Name: MIT.EDU                                                            
+                                                                                
+   Registrant:                                                                  
+      Massachusetts Institute of Technology                                     
+      Cambridge, MA 02139                                                       
+      UNITED STATES                                                             
+                                                                                
+   Administrative Contact:                                                      
+      I got owned                                                               
+      Massachusetts Institute of Technology                                     
+      MIT Room W92-167, 77 Massachusetts Avenue                                 
+      Cambridge, MA 02139-4307                                                  
+      UNITED STATES                                                             
+      (617) 324-1337                                                            
+      cunt@mit.edu                                                              
+                                                                                
+   Technical Contact:                                                           
+    OWNED NETWORK OPERATIONS                                                    
+      ROOT                                                                      
+      US                                                                        
+      DESTROYED, MA 02139-4307                                                  
+      UNITED STATES                                                             
+      (617) 253-1337                                                            
+      owned@mit.edu                                                             
+                                                                                
+   Name Servers:                                                                
+      FRED.NS.CLOUDFLARE.COM                                                    
+      KATE.NS.CLOUDFLARE.COM                                                    
+                                                                                
+   Domain record activated:    23-May-1985                                      
+   Domain record last updated: 22-Jan-2013                                      
+   Domain expires:             31-Jul-2013                                      
+                                                                                
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+                                                                                
+                                                                                
+Here's the cherry on top:                                                       
+                                                                                
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+                                                                                
+                                                                                
+From:   "CloudFlare Support" <support@cloudflare.com>                           
+Subject:        [CloudFlare Support] Pending request: Why is cloudflare staff   
+modifying my dns records? (ticket #12053)                                       
+Date:   Wed, January 23, 2013 4:48 pm                                           
+To:     "Fuckmit" <fuckmit@tormail.org>                                         
+                                                                                
+##- Please type your reply above this line -##                                  
+                                                                                
+[CloudFlare Support] Pending request: Why is cloudflare staff modifying my dns  
+records? (ticket #12053)                                                        
+                                                                                
+This is an email to remind you that your request (#12053) is pending and awaits 
+your feedback.                                                                  
+                                                                                
+Please click the link below to review and update your request:                  
+http://support.cloudflare.com/tickets/12053                                     
+                                                                                
+----------------------------------------------                                  
+                                                                                
+Justin, Jan 22 11:48 am (PST)                                                   
+                                                                                
+Hi,                                                                             
+                                                                                
+We have reason to believe you are not the actual owner of the mit.edu domain.   
+We have been in contact with the actual owner this morning.                     
+                                                                                
+As such we have taken steps to secure the account, and the domain has already   
+been returned to the actual owner.                                              
+                                                                                
+----------------------------------------------                                  
+                                                                                
+Fuckmit, Jan 22 11:45 am (PST)                                                  
+                                                                                
+Two questions:                                                                  
+Why is cloudflare staff modifying my dns records without authorization?         
+Why is cloudflare staff repeatedly regenerating my API key every time they      
+decide to modify my dns records without authorization?                          
+                                                                                
+--------------------------------                                                
+This email is a service from CloudFlare Support                                 
+                                                                                
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+                                                                                
+                                                                                
+You have reason to believe a user named 'Fuckmit' is not the legitimate owner   
+of mit.edu? Excellent deduction, Justin.                                        
+                                                                                
+Soon after, we decided to troll Gizmodo and the rest of the media into          
+preserving our access. The 'browser exploit' on MIT's NOC                       
+( http://gizmodo.com/5978039/hackers-incoherently-deface-entire-mit-website )   
+never existed. We'd never show our full hand at once, we'd just lose access.    
+                                                                                
+MIT certainly believed us though, despite their own reassurances otherwise. For 
+confirmation, they contacted the root registrar for EDU domains (EDUCAUSE)      
+after finally asserting that we got access to their EDUCAUSE account.           
+                                                                                
+EDUCAUSE then made the fatal mistake of overlooking our complete access into    
+the EDU TLD. Though, we can't say we expect much from a registrar running ASPX  
+on their backend.                                                               
+                                                                                
+Now, just in case you don't believe us, we have entrusted the login credentials 
+of nearly every EDU domain to hackers worldwide (active as we speak) within the 
+MIT section of this zine. So, let's see what happens first, mass exploitation   
+or whitehat response? ;) We are not ones for defacing, actually, and we're      
+going to leave that up to the Internet Justice League (AKA Anonymous) if they   
+can even get to it on time. And we figure they'll manifest some statement       
+about how its morally justifiable to deface *.edu. We frankly don't care.       
+                                                                                
+By the end of today (5/6), EDU operation should return to normal.               
+                                                                                
+Moreover, we particularly enjoyed the fact that the first nameserver for        
+root-servers.org is an EDU domain. This effectively gave us control over        
+root-servers.org. However, ICANN is responsible for the root zones file.        
+                                                                                
+ICANN was already compromised by that time, though, joined by several of the    
+major RIR's (RIPE, LACNIC, etc.) along with bgp+shell access and 13,000+        
+backbone AS's (some of which persists to this day) & the InterNIC. Surprisingly,
+they used passwordless private keys stored on their servers to ssh into the     
+internal Juniper routers as superusers: only 3 networks away and not even phys  
+sep. Nothing proxychains can't handle. They probably should've checked their    
+netscreens before it was too late. :P                                           
+                                                                                
+None of this access was ever used, but we did get to see some pretty funny      
+shit. In the backbone of SourceForge (Savvis), for example, we ran into some    
+old SunOS Sparc boxes with 1900+ day uptime. They had passwordless private key  
+auth, and the kernels were fairly ancient (and in the absence of all file       
+transfer utils, `whois` coupled with a few pipes worked great to transfer tgz's 
+served from port 43 - no file editing required). As it turns out, we were not   
+the first ones there. On their Phoenix, AZ stats server, some random hacker was 
+kicking back in /var/tmp/.access_logx/ with a psyBNC connected to Undernet. On  
+SourceForge's backbone -- LOL? We don't think he fully realized what he had     
+breached. Or maybe he just really needed a psyBNC server. Either way, he'll     
+probably have to end up getting a new psyBNC after today. On Github or          
+something.                                                                      
+                                                                                
+Enjoy the MIT emails/EDUCAUSE login data, included in this segment of           
+HTP5:                                                                           
+                                                                                
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+~ http://mirror.hack-the-planet.tv/HTP-5/MIT-EDUCAUSE/mit.zip                   
+|- 2.6GB | Zip compressed MIT emails                                            
+~ http://mirror.hack-the-planet.tv/HTP-5/MIT-EDUCAUSE/EDUDOMAINS.rpt            
+|- 28MB  | EDUCAUSE database: extracted domain credentials                      
+~ http://mirror.hack-the-planet.tv/HTP-5/MIT-EDUCAUSE/EDUCAUSE-MISCDBS.zip      
+|- 12MB  | EDUCAUSE misc. databases extracted from 6.4GB MSSQL tape backup      
+~ http://mirror.hack-the-planet.tv/HTP-5/MIT-EDUCAUSE/eduhashindex.txt          
+|- 143K  | EDUCAUSE domain passwords, allow account/DNS modification.           
+|        | For use with /HTP-5/MIT-EDUCAUSE/EDUDOMAINS.rpt                      
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
